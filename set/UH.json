@@ -709,7 +709,7 @@
         ],
         "subtitle": "Merciless Hunter",
         "subtypes": [
-            "bounty hunter"
+            "bounty-hunter"
         ],
         "text": "<b>Action</b> - Remove one of your dice to resolve one of this character's character dice, increasing its value by 1.\n\"I never ask for permission to do anything, my darling.\"",
         "type_code": "character"
@@ -739,7 +739,7 @@
         ],
         "subtitle": "Apex Predator",
         "subtypes": [
-            "bounty hunter",
+            "bounty-hunter",
             "pilot"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Move up to 2 damage from an opponent's character to another character.",
@@ -1057,7 +1057,7 @@
             "-"
         ],
         "subtypes": [
-            "bounty hunter"
+            "bounty-hunter"
         ],
         "text": "The X on this die is equal to the number of resources you have, to a maximum of 3.\nIf you want the best, you're going to need the credits.",
         "type_code": "support"
@@ -2430,7 +2430,7 @@
         ],
         "subtitle": "Adept Mercenary",
         "subtypes": [
-            "bounty hunter"
+            "bounty-hunter"
         ],
         "text": "After you play a Yellow event, you may reroll one of your dice.\n<b>Power Action</b> - Reroll a <b>weapon</b> die. Then, if that die is showing damage, deal 1 damage to a character. Otherwise, give this character 1 shield.",
         "type_code": "character"
@@ -2688,3 +2688,4 @@
         "type_code": "battlefield"
     }
 ]
+

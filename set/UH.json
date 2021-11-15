@@ -28,6 +28,7 @@
             "witch"
         ],
         "text": "<b>Power Action</b> - Spend 1 resource or spot another witch to roll a <b>weapon</b> die on this character into your pool.",
+        "ttscardid": "57900",
         "type_code": "character"
     },
     {
@@ -59,6 +60,7 @@
             "sith"
         ],
         "text": "After you remove, turn, or resolve one or more of an opponent's character dice, deal 1 damage to each opponent's character whose dice you just manipulated.\n\"The <b>Sith</b> control everything, You just don't know it.\"",
+        "ttscardid": "57901",
         "type_code": "character"
     },
     {
@@ -89,6 +91,7 @@
             "witch"
         ],
         "text": "<b>Action</b> - Play a card from your hand that costs an odd number to reroll a die.\n\"When you face one Nightsister of Dathomir... you face us all!\" - Merrin",
+        "ttscardid": "57902",
         "type_code": "character"
     },
     {
@@ -120,6 +123,7 @@
             "scavenger"
         ],
         "text": "After this character takes damage for the first time each round, you may discard a card from your hand to roll a set-aside Servant of the Darkside (EAW9) die into your pool.",
+        "ttscardid": "57903",
         "type_code": "character"
     },
     {
@@ -140,6 +144,7 @@
             "curse"
         ],
         "text": "<b>Action</b> - Spot a witch and exhaust this downgrade to force an opponent to either remove an attached character's character die or have you gain 1 resource.",
+        "ttscardid": "57904",
         "type_code": "downgrade"
     },
     {
@@ -157,6 +162,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a Blue character to remove one of your dice showing a blank. Then remove an opponent's die.",
+        "ttscardid": "57905",
         "type_code": "event"
     },
     {
@@ -174,6 +180,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Remove a die. Then you may resolve one of your dice showing damage, increasing its value by 2.",
+        "ttscardid": "57906",
         "type_code": "event"
     },
     {
@@ -191,6 +198,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "You may spot a Yellow character to remove a die not showing damage. You may spot a Blue character to turn a die showing damage to a side showing a blank.",
+        "ttscardid": "57907",
         "type_code": "event"
     },
     {
@@ -219,6 +227,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Spot Asajj Ventress to roll one of her character dice into your pool.",
+        "ttscardid": "57908",
         "type_code": "support"
     },
     {
@@ -236,6 +245,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "After you turn or remove an opponent's die, place 1 resource on this support.\n<b>Action</b> - Discard this support to play a Blue <b>ability</b> or Blue event, decreasing its cost by the number of resources on this support, up to a maximum of 3.",
+        "ttscardid": "57909",
         "type_code": "support"
     },
     {
@@ -264,6 +274,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade on a Blue character, you may spend 1 resource to make this upgrade elite.\nWhile this upgrade is on Asajj Ventress, decrease this die's costs by 1.",
+        "ttscardid": "57910",
         "type_code": "upgrade"
     },
     {
@@ -289,6 +300,7 @@
             "-"
         ],
         "text": "Blue character only.\nWhile attached character has 6 or more damage on it, increase this die's value by 1, or by 2 instead if attached character has 9 or more damage on it.",
+        "ttscardid": "57911",
         "type_code": "upgrade"
     },
     {
@@ -306,6 +318,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Before attached character would be defeated, instead discard one of your Blue <b>abilities</b> to heal damage equal to that <b>ability</b>'s cost from this attached character. Discard this upgrade.",
+        "ttscardid": "57912",
         "type_code": "upgrade"
     },
     {
@@ -326,6 +339,7 @@
             "title"
         ],
         "text": "<b>Sith</b> character only.\nAfter you play this upgrade, you may remove a die showing a blank.\n<b>Power Action</b> - Roll a character or upgrade die on the attached character into your pool.",
+        "ttscardid": "57913",
         "type_code": "upgrade"
     },
     {
@@ -351,6 +365,7 @@
             "-"
         ],
         "text": "[special] - Heal 1 damage from a character. Spot a witch to reroll this die instead of removing it.",
+        "ttscardid": "57914",
         "type_code": "upgrade"
     },
     {
@@ -380,6 +395,7 @@
             "droid"
         ],
         "text": "After setup, give this character 1 shield.\nWhile this character has 1 or more shields, increase the value of its character dice by 1.\nWhile this character has no shields, increase damage dealt to this character by 1.",
+        "ttscardid": "57915",
         "type_code": "character"
     },
     {
@@ -410,6 +426,7 @@
             "leader"
         ],
         "text": "Before you resolve this die showing focus, you may increase its value by 1. If you do, its effect can only turn <b>droid</b> dice.\n<b>Power Action</b> - Deal 1 indirect damage to yourself to roll a <b>droid</b> die on a card you control into your pool.",
+        "ttscardid": "57916",
         "type_code": "character"
     },
     {
@@ -443,6 +460,7 @@
             "trooper"
         ],
         "text": "You may include Iden Versio on a team that also includes a Red hero <b>leader</b>.\nPiloting.\nWhile this die is in your pool, increase the value of your piloted <b>vehicle</b> dice by 1.",
+        "ttscardid": "57917",
         "type_code": "character"
     },
     {
@@ -473,6 +491,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Reveal an opponent's hand. You may discard a card from your hand to discard a card of your choice from that opponent's hand with the same cost.\n\"Charming. To the last.\"",
+        "ttscardid": "57918",
         "type_code": "character"
     },
     {
@@ -490,6 +509,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "<b>Action</b> - Exhaust this downgrade to place 1 resource on it. Then, If this card has 2 or more resources on it, force an opponent to remove one of attached character's character dice. Then roll that die into your pool.",
+        "ttscardid": "57919",
         "type_code": "downgrade"
     },
     {
@@ -507,6 +527,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Turn one of your dice to a side showing a cost.",
+        "ttscardid": "57920",
         "type_code": "event"
     },
     {
@@ -524,6 +545,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Set aside a card from a discard pile to remove a die with a value equal to that card's cost.",
+        "ttscardid": "57921",
         "type_code": "event"
     },
     {
@@ -541,6 +563,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Give control of the battlefield to an opponent and spot up to 2 Red characters to remove that many dice showing damage.",
+        "ttscardid": "57922",
         "type_code": "event"
     },
     {
@@ -558,6 +581,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Turn a <b>trooper</b> die to any side. Then, if it was your die, you may spot a Blue character to resolve it.",
+        "ttscardid": "57923",
         "type_code": "event"
     },
     {
@@ -578,6 +602,7 @@
             "intel"
         ],
         "text": "Team Up 1: Each <b>leader</b>.\nAfter a card is discarded from an opponent's hand by a card effect, place 1 resource on this plot.\n<b>Power Action</b> - Remove 3 resources from this plot to gain 2 actions.",
+        "ttscardid": "57924",
         "type_code": "plot"
     },
     {
@@ -606,6 +631,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Spot a <b>leader</b> to roll this die into your pool.\n\"A fearsome sight on any battlefield, the AAT is one of the Trade Federation's most formidable <b>weapons</b>.\" - Captain Panaka",
+        "ttscardid": "57925",
         "type_code": "support"
     },
     {
@@ -626,6 +652,7 @@
             "vehicle"
         ],
         "text": "<b>Action</b> - Exhaust this support to play a Red support with a matching die from your discard pile, decreasing its cost by 1.",
+        "ttscardid": "57926",
         "type_code": "support"
     },
     {
@@ -654,6 +681,7 @@
             "droid"
         ],
         "text": "<b>Power Action</b> - Resolve a die showing a cost. Then turn one of your dice to a side showing a different symbol than that die.\n\"I assure you he will succeed where you have failed.\" - Count Dooku",
+        "ttscardid": "57927",
         "type_code": "support"
     },
     {
@@ -682,6 +710,7 @@
             "ability"
         ],
         "text": "While this upgrade is on a <b>leader</b>, it gains Redeploy.\nAfter you resolve this die, look at an opponent's hand and discard the card from it with the lowest cost (you choose in the case of a tie).",
+        "ttscardid": "57928",
         "type_code": "upgrade"
     },
     {
@@ -712,6 +741,7 @@
             "bounty-hunter"
         ],
         "text": "<b>Action</b> - Remove one of your dice to resolve one of this character's character dice, increasing its value by 1.\n\"I never ask for permission to do anything, my darling.\"",
+        "ttscardid": "57929",
         "type_code": "character"
     },
     {
@@ -743,6 +773,7 @@
             "pilot"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Move up to 2 damage from an opponent's character to another character.",
+        "ttscardid": "57930",
         "type_code": "character"
     },
     {
@@ -772,6 +803,7 @@
             "trooper"
         ],
         "text": "While you control a <b>leader</b>, this character has Guardian.\nAfter you remove this die, deal 1 indirect damage to an opponent.",
+        "ttscardid": "57931",
         "type_code": "character"
     },
     {
@@ -803,6 +835,7 @@
             "trooper"
         ],
         "text": "After setup, play a set-aside copy of Darksaber (HS103) on this character for free.\n<b>Power Action</b> - Remove one of your dice to give this character 1 shield.",
+        "ttscardid": "57932",
         "type_code": "character"
     },
     {
@@ -824,6 +857,7 @@
             "intel"
         ],
         "text": "Play only if you spot a spy or a <b><b>bounty</b> hunter</b>.\nAfter attached character is defeated, reveal the top 4 cards of an opponent's deck. You may play a card revealed for free, spotting that opponent's cards as if they were yours.",
+        "ttscardid": "57933",
         "type_code": "downgrade"
     },
     {
@@ -841,6 +875,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a <b><b>bounty</b> hunter</b> to deal indirect damage to an opponent equal to the difference in the number of cards in your hands, to a maximum of 5.",
+        "ttscardid": "57934",
         "type_code": "event"
     },
     {
@@ -858,6 +893,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Remove a character or upgrade die. Then roll one of your elite character's character or upgrade dice into your pool.",
+        "ttscardid": "57935",
         "type_code": "event"
     },
     {
@@ -875,6 +911,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a Yellow character to remove an opponent's die. Then force an opponent to choose and remove their dice until they have 3 or fewer dice in their pool.",
+        "ttscardid": "57936",
         "type_code": "event"
     },
     {
@@ -892,6 +929,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a Yellow character and reveal a card from your hand to force an opponent to remove one of their dice showing a value equal to the cost of the revealed card.",
+        "ttscardid": "57937",
         "type_code": "event"
     },
     {
@@ -909,6 +947,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Include only if each character on your team is a unique <b><b>bounty</b> hunter</b>.\nAfter you deal damage to a character with a <b>bounty</b> on it, exhaust this plot to force an opponent to choose and discard a card from their hand.",
+        "ttscardid": "57938",
         "type_code": "plot"
     },
     {
@@ -929,6 +968,7 @@
             "location"
         ],
         "text": "After you remove one or more of your dice, you may spot a Yellow character to deal 1 indirect damage to an opponent.\nA renowned hideout by Bounty Hunters with an elite security system.",
+        "ttscardid": "57939",
         "type_code": "support"
     },
     {
@@ -957,6 +997,7 @@
             "vehicle"
         ],
         "text": "Ambush.\nAfter you activate this support, you may remove one of your other dice to resolve this die.",
+        "ttscardid": "57940",
         "type_code": "support"
     },
     {
@@ -986,6 +1027,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade on Cad Bane, you may spend 1 resource to make this upgrade elite.\n[special] - Deal 1 unblockable damage to a character.",
+        "ttscardid": "57941",
         "type_code": "upgrade"
     },
     {
@@ -1015,6 +1057,7 @@
             "weapon"
         ],
         "text": "<b>Power Action</b> - Remove one of your dice to roll this die into your pool.",
+        "ttscardid": "57942",
         "type_code": "upgrade"
     },
     {
@@ -1032,6 +1075,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Resolve one of your dice showing a cost, increasing its value by the cost showing on it.\n",
+        "ttscardid": "57943",
         "type_code": "event"
     },
     {
@@ -1060,6 +1104,7 @@
             "bounty-hunter"
         ],
         "text": "The X on this die is equal to the number of resources you have, to a maximum of 3.\nIf you want the best, you're going to need the credits.",
+        "ttscardid": "57944",
         "type_code": "support"
     },
     {
@@ -1090,6 +1135,7 @@
             "partisan"
         ],
         "text": "You cannot play Blue <b>abilities</b> on this character.\n<b>Power Action</b> - Turn one of your character dice showing a blank to a side with a value of 1, or to any side instead if you spot Baze Malbus.",
+        "ttscardid": "57945",
         "type_code": "character"
     },
     {
@@ -1122,6 +1168,7 @@
             "leader"
         ],
         "text": "Damage dealt by this die is unblockable.\n<b>Power Action</b> - Resolve one of this character's character dice showing damage. If a character is defeated this way, you may return that die to your pool showing the same side and resolve it again for free.",
+        "ttscardid": "57946",
         "type_code": "character"
     },
     {
@@ -1151,6 +1198,7 @@
             "apprentice"
         ],
         "text": "After you resolve this die showing a shield, you may discard the top card of a deck.\n\"Pass on what you have learned. Strength. Mastery. But weakness, folly, failure also.\" - Yoda",
+        "ttscardid": "57947",
         "type_code": "character"
     },
     {
@@ -1182,6 +1230,7 @@
             "pilot"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Remove 1 shield from one of your pilots to play a <b>vehicle</b> from your hand, decreasing its cost by 1.",
+        "ttscardid": "57948",
         "type_code": "character"
     },
     {
@@ -1199,6 +1248,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Renew 1.\nSpot a Blue character to choose a die showing a blank. That die cannot be rerolled this round.",
+        "ttscardid": "57949",
         "type_code": "event"
     },
     {
@@ -1216,6 +1266,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Turn an opponent's die to any side. Then discard cards from the top of a deck equal to the value showing on that die.",
+        "ttscardid": "57950",
         "type_code": "event"
     },
     {
@@ -1233,6 +1284,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Choose a character die. Turn another character die to a side showing the same symbol and value as that die. Then spot a Yellow character to give a character 1 shield.\n\"Han old buddy, do you read me?\" - Luke Skywalker",
+        "ttscardid": "57951",
         "type_code": "event"
     },
     {
@@ -1250,6 +1302,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Renew 1.\nGive a Blue character 1 shield. If this card was played using its renew cost, draw a card.",
+        "ttscardid": "57952",
         "type_code": "event"
     },
     {
@@ -1267,6 +1320,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot 2 of your dice showing a blank to turn each of those dice to any side.",
+        "ttscardid": "57953",
         "type_code": "event"
     },
     {
@@ -1284,6 +1338,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Activate 2 of your characters that do not share a color. Then give one of those characters 2 shields.",
+        "ttscardid": "57954",
         "type_code": "event"
     },
     {
@@ -1301,6 +1356,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Renew 1.\nRemove one of your Blue character dice to heal 2 damage from that character.",
+        "ttscardid": "57955",
         "type_code": "event"
     },
     {
@@ -1330,6 +1386,7 @@
             "vehicle"
         ],
         "text": "After this support is piloted for the first time each round, you may give 1 shield to a Red character, or if it is piloted by Plo Koon, you may give 1 shield to any character instead.",
+        "ttscardid": "57956",
         "type_code": "support"
     },
     {
@@ -1358,6 +1415,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade, you may give a character 1 shield.\n[special] - Exhaust this upgrade to resolve one of your dice showing a shield without removing it from your pool. Reroll this die instead of removing it.",
+        "ttscardid": "57957",
         "type_code": "upgrade"
     },
     {
@@ -1386,6 +1444,7 @@
             "ability"
         ],
         "text": "Play only if you spot a Blue character.\n[special] - Choose and do 2 of the following:\n-Gain 1 resource.\n-Give a character 1 shield.\n-Discard the top card of a deck\n-Turn one of your dice to any side.",
+        "ttscardid": "57958",
         "type_code": "upgrade"
     },
     {
@@ -1417,6 +1476,7 @@
             "partisan"
         ],
         "text": "Guardian.\n<b>Power Action</b> - Spend 1 resource or spot Chirrut Imwe to resolve one of your dice showing a modifier as if it did not have a modifier.",
+        "ttscardid": "57959",
         "type_code": "character"
     },
     {
@@ -1448,6 +1508,7 @@
             "trooper"
         ],
         "text": "After the start of the round or when the battlefield changes control, if you control the battlefield, draw a card.\n<b>Power Action</b> - Discard a card from your hand to turn a <b>trooper</b> die to any side.",
+        "ttscardid": "57960",
         "type_code": "character"
     },
     {
@@ -1478,6 +1539,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Play an event from your hand to discard a random card from an opponent's hand.\n\"There is no civility. Only politics.\" - Sheev Palpatine",
+        "ttscardid": "57961",
         "type_code": "character"
     },
     {
@@ -1510,6 +1572,7 @@
             "trooper"
         ],
         "text": "After the first time you play a Red <b>weapon</b>, <b>equipment</b>, or <b>vehicle</b> this round, you may take control of the battlefield.\n\"This war left its scars on all of us.\"",
+        "ttscardid": "57962",
         "type_code": "character"
     },
     {
@@ -1527,6 +1590,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Play only if an opponent has more dice in their pool than you have in yours.\nRemove an opponent's die.",
+        "ttscardid": "57963",
         "type_code": "event"
     },
     {
@@ -1544,6 +1608,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Give up to 2 of your characters 1 shield each. If you have a copy of Hold the Line (SETREF) in your discard pile, you may give control of the battlefield to an opponent to give up to 2 of your characters 1 shield each.",
+        "ttscardid": "57964",
         "type_code": "event"
     },
     {
@@ -1561,6 +1626,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a Blue character and activate one of your Red characters to remove a die not showing damage with a value of 1 or less.",
+        "ttscardid": "57965",
         "type_code": "event"
     },
     {
@@ -1589,6 +1655,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Resolve this die, rerolling it instead of removing it.\n[special] - Deal 1 damage to each of an opponent's characters",
+        "ttscardid": "57966",
         "type_code": "support"
     },
     {
@@ -1617,6 +1684,7 @@
             "trooper"
         ],
         "text": "After you activate this support, choose and do one of the following. If you spot a <b>leader</b>, you can choose and do one of the following again:\n-Roll 1 set-aside Clone Trooper (LEG38) die into your pool\n-Roll 1 set-aside Rebel Engineer (ATG75) die into your pool.\n",
+        "ttscardid": "57967",
         "type_code": "support"
     },
     {
@@ -1645,6 +1713,7 @@
             "weapon"
         ],
         "text": "<b>Action</b> - Return this upgrade to your hand to use a claim <b>ability</b> or power action on the battlefield, even if it has been used this round.",
+        "ttscardid": "57968",
         "type_code": "upgrade"
     },
     {
@@ -1665,6 +1734,7 @@
             "equipment"
         ],
         "text": "After attached character is activated, heal 1 damage from a character, or 2 damage instead if that character has 11 or more damage on it.",
+        "ttscardid": "57969",
         "type_code": "upgrade"
     },
     {
@@ -1686,6 +1756,7 @@
             "mod"
         ],
         "text": "Modify <b>droid</b> character or support.\n<b>Power Action</b> - Resolve one of your <b>droid</b> dice as if it were showing a different symbol.",
+        "ttscardid": "58000",
         "type_code": "upgrade"
     },
     {
@@ -1718,6 +1789,7 @@
             "trooper"
         ],
         "text": "<b>Power Action</b> - Choose an opponent's die showing damage and force them to resolve it. Then you may resolve one of your dice showing damage, increasing its value by 1.\n[special] - Deal 3 unblockable indirect damage to an opponent.",
+        "ttscardid": "58001",
         "type_code": "character"
     },
     {
@@ -1749,6 +1821,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Remove 3 resources from this card to play a set-aside Diplomatic Immunity (AWK 50) for free.\n[special] - Discard the top 2 cards of a deck. Place 1 resource on this card.",
+        "ttscardid": "58002",
         "type_code": "character"
     },
     {
@@ -1780,6 +1853,7 @@
             "scoundrel"
         ],
         "text": "Piloting.\nAfter you resolve a <b>vehicle</b> die piloted by this character for the first time each round, gain 1 resource.",
+        "ttscardid": "58003",
         "type_code": "character"
     },
     {
@@ -1811,6 +1885,7 @@
             "spectre"
         ],
         "text": "After you resolve this die showing damage, you may draw a card.\n\"Karabast!\"",
+        "ttscardid": "58004",
         "type_code": "character"
     },
     {
@@ -1828,6 +1903,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Play a support with a matching die from your hand, decreasing its cost by 2. Choose an opponent. That opponent may roll that support's die into their pool.\n\"Both are hard working, and will serve you well.\" - Luke Skywalker",
+        "ttscardid": "58005",
         "type_code": "event"
     },
     {
@@ -1845,6 +1921,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Remove a die showing a value of 1 or more. Then each opponent gains resources equal to half that die's value rounded up.",
+        "ttscardid": "58006",
         "type_code": "event"
     },
     {
@@ -1862,6 +1939,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Gain 2 actions. You cannot take the resolve dice action this turn.",
+        "ttscardid": "58007",
         "type_code": "event"
     },
     {
@@ -1887,6 +1965,7 @@
             "-"
         ],
         "text": "After you activate a Blue or Red character, you may activate this support.",
+        "ttscardid": "58008",
         "type_code": "support"
     },
     {
@@ -1904,6 +1983,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Discard this support if it has 2 or more damage on it.\n<b>Action</b> - Spot a Blue character, exhaust this support and place 1 damage on it to remove a character die.",
+        "ttscardid": "58009",
         "type_code": "support"
     },
     {
@@ -1921,6 +2001,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "<b>Action</b> - Exhaust this support to turn a die to a side showing the same symbol as another die showing a modifier.",
+        "ttscardid": "58010",
         "type_code": "support"
     },
     {
@@ -1950,6 +2031,7 @@
             "partisan"
         ],
         "text": "You may distribute indirect damage dealt to yourself to this support as if it were a character with 3 health.\nDiscard this support if it has 3 or more damage on it.",
+        "ttscardid": "58011",
         "type_code": "support"
     },
     {
@@ -1979,6 +2061,7 @@
             "vehicle"
         ],
         "text": "Before this support becomes activated by Piloting, you may search your deck for a mod and play it on this support, if able, decreasing its cost by 1.\nShuffle your deck. [special] - Roll a die on an attached mod into your pool.",
+        "ttscardid": "58012",
         "type_code": "support"
     },
     {
@@ -2008,6 +2091,7 @@
             "mod"
         ],
         "text": "Modify <b>vehicle</b> support.\nAttached <b>vehicle</b>'s support and upgrade dice cannot be removed while they are showing a resource.",
+        "ttscardid": "58013",
         "type_code": "upgrade"
     },
     {
@@ -2025,6 +2109,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "You can only include non-unique characters on your team.",
+        "ttscardid": "58014",
         "type_code": "plot"
     },
     {
@@ -2054,6 +2139,7 @@
             "droid"
         ],
         "text": "After you play this support, you may spend 1 resource to make it elite.\n[special] - Gain 1 resource and draw a card.",
+        "ttscardid": "58015",
         "type_code": "support"
     },
     {
@@ -2082,6 +2168,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade, you may reroll a die showing a blank, or turn it to any side instead if this upgrade is on Chirrut Imwe.",
+        "ttscardid": "58016",
         "type_code": "upgrade"
     },
     {
@@ -2099,6 +2186,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Choose a number. Reroll a die. If that die's value is the chosen number, remove it. Otherwise, you can repeat this effect once.",
+        "ttscardid": "58017",
         "type_code": "event"
     },
     {
@@ -2116,6 +2204,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Renew 2.\nSpot a Jedi or <b>Sith</b> character to play a Blue <b>ability</b> from your discard pile onto another character, decreasing its cost by 1. If this card was played using its renew cost, roll that <b>ability</b>'s die into your pool.",
+        "ttscardid": "58018",
         "type_code": "event"
     },
     {
@@ -2136,6 +2225,7 @@
             "move"
         ],
         "text": "Resolve one of your character or upgrade dice showing a shield as melee damage, increasing its value by the number of shields on the attached character, if it has an upgrade titled Ataru Mastery on it.\n",
+        "ttscardid": "58019",
         "type_code": "event"
     },
     {
@@ -2156,6 +2246,7 @@
             "move"
         ],
         "text": "Resolve one of your character or upgrade dice showing melee damage to remove a die. If that resolved die belongs to a character that has an upgrade titled Ataru Mastery on it, give it 2 shields.",
+        "ttscardid": "58020",
         "type_code": "event"
     },
     {
@@ -2173,6 +2264,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "After setup, set this plot aside to play a set-aside upgrade with \"Training\" in its title on one of your characters, decreasing its cost by 1, if able.",
+        "ttscardid": "58021",
         "type_code": "plot"
     },
     {
@@ -2202,6 +2294,7 @@
             "form"
         ],
         "text": "Blue character only. Limit 1 form per character.\nAfter you play this upgrade, give a character 2 shields.\n[special] - Give a character 2 shields. Deal damage equal to the number of shields on that character to a character.",
+        "ttscardid": "58022",
         "type_code": "upgrade"
     },
     {
@@ -2230,6 +2323,7 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Give a character 1 shield. Deal damage equal to half the number of shields on that character, rounded up to a character. You may discard this upgrade to play a card titled Ataru Mastery from your hand or discard pile on attached character for free.",
+        "ttscardid": "58023",
         "type_code": "upgrade"
     },
     {
@@ -2256,6 +2350,7 @@
         ],
         "subtitle": "Coruscant",
         "text": "After you take control of this battlefield, remove its die.\n<b>Power Action</b> - Roll this die into your pool.\n[special] - Move 1 damage from a character to another character.",
+        "ttscardid": "58024",
         "type_code": "battlefield"
     },
     {
@@ -2273,6 +2368,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a Blue character to resolve a Red die as if it were showing a different symbol. Spot a Red character to draw a card.",
+        "ttscardid": "58025",
         "type_code": "event"
     },
     {
@@ -2290,6 +2386,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Team Up 1: Each unique pilot\n<b>Action</b> - Set this plot aside and spend resources equal to the cost of a unique <b>vehicle</b> in play to make it elite (place a second copy of its die on it).",
+        "ttscardid": "58026",
         "type_code": "plot"
     },
     {
@@ -2310,6 +2407,7 @@
             "mission"
         ],
         "text": "Team Up 1: Each <b>trooper</b>\nAfter one of your <b>trooper</b> characters is defeated, set this plot aside to roll that character's character dice into your pool. You may resolve those dice, if able. Otherwise, remove them.",
+        "ttscardid": "58027",
         "type_code": "plot"
     },
     {
@@ -2338,6 +2436,7 @@
             "droid"
         ],
         "text": "After you resolve this die showing damage, you may spend 1 resource to remove a die showing damage.",
+        "ttscardid": "58028",
         "type_code": "support"
     },
     {
@@ -2358,6 +2457,7 @@
             "mod"
         ],
         "text": "Modify <b>vehicle</b> support.\nBefore attached <b>vehicle</b> would be discarded from play, discard this upgrade from play instead.\nAfter you activate attached support, give a character 1 shield.",
+        "ttscardid": "58029",
         "type_code": "upgrade"
     },
     {
@@ -2386,6 +2486,7 @@
             "equipment"
         ],
         "text": "Attached character has +1 upgrade limit.",
+        "ttscardid": "58030",
         "type_code": "upgrade"
     },
     {
@@ -2403,6 +2504,7 @@
         "set_code": "UH",
         "subtitle": "Kamino",
         "text": "<b>Power Action</b> - Reroll one of your dice. Then you may resolve it.\nClaim - Reroll an opponent's die. Then you may force them to resolve it, if able.",
+        "ttscardid": "58031",
         "type_code": "battlefield"
     },
     {
@@ -2433,6 +2535,7 @@
             "bounty-hunter"
         ],
         "text": "After you play a Yellow event, you may reroll one of your dice.\n<b>Power Action</b> - Reroll a <b>weapon</b> die. Then, if that die is showing damage, deal 1 damage to a character. Otherwise, give this character 1 shield.",
+        "ttscardid": "58032",
         "type_code": "character"
     },
     {
@@ -2453,6 +2556,7 @@
             "bounty"
         ],
         "text": "Play only if you spot a <b><b>bounty</b> hunter</b>.\nAfter attached character is activated or defeated, you may draw a card.\n",
+        "ttscardid": "58033",
         "type_code": "downgrade"
     },
     {
@@ -2470,6 +2574,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "If there is another copy of this card in your discard pile, search your deck for an upgrade and play it, decreasing its cost by 3. If you searched your deck, shuffle it. Then set aside all copies of this card in your discard pile and set this card aside.",
+        "ttscardid": "58034",
         "type_code": "event"
     },
     {
@@ -2487,6 +2592,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a <b><b>bounty</b> hunter</b> and a <b>bounty</b> to remove a die showing a value of 2 or less. Gain 1 resource.\n\"Bounty hunting is a complicated profession. Wouldn't you agree?\" - The Client",
+        "ttscardid": "58035",
         "type_code": "event"
     },
     {
@@ -2504,6 +2610,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot a Yellow character to remove one of your dice. Then gain 1 resource. Spot a Red character to take one additional action.",
+        "ttscardid": "58036",
         "type_code": "event"
     },
     {
@@ -2532,6 +2639,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nYou may resolve the damage sides of this die as if they were ranged damage.",
+        "ttscardid": "58037",
         "type_code": "upgrade"
     },
     {
@@ -2549,6 +2657,7 @@
         "set_code": "UH",
         "subtitle": "Coruscant",
         "text": "<b>Power Action</b> - Draw a card. Then place a card from your hand on the bottom of your deck.\nClaim - Draw a card.",
+        "ttscardid": "58038",
         "type_code": "battlefield"
     },
     {
@@ -2566,6 +2675,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Remove one of your non-unique character dice to remove a die.",
+        "ttscardid": "58039",
         "type_code": "event"
     },
     {
@@ -2583,6 +2693,7 @@
         "rarity_code": "S",
         "set_code": "UH",
         "text": "Spot 2 characters that share a subtype and not a color to deal 2 damage to a character. Spot 2 characters that share a color and no subtypes to heal 2 damage from a character.",
+        "ttscardid": "58040",
         "type_code": "event"
     },
     {
@@ -2611,6 +2722,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Remove one of your dice showing a shield to discard a random card from an opponent's hand.",
+        "ttscardid": "58041",
         "type_code": "support"
     },
     {
@@ -2640,6 +2752,7 @@
             "vehicle"
         ],
         "text": "Before you activate this support, deal 1 indirect damage to yourself.\n<b>Action</b> - Discard 2 cards from your hand to take control of this support. Any player may use this action.",
+        "ttscardid": "58042",
         "type_code": "support"
     },
     {
@@ -2668,6 +2781,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on a <b><b>bounty</b> hunter</b> or <b>trooper</b>, it gains Redeploy.\n<b>Power Action</b> - Remove this die showing damage to deal 3 indirect damage to an opponent.",
+        "ttscardid": "58043",
         "type_code": "upgrade"
     },
     {
@@ -2685,6 +2799,7 @@
         "set_code": "UH",
         "subtitle": "Ryloth",
         "text": "<b>Power Action</b> - Resolve one of your non-unique character dice, increasing its value by 1.",
+        "ttscardid": "58044",
         "type_code": "battlefield"
     }
 ]

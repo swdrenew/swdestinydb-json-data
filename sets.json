@@ -161,27 +161,5 @@
         "position": 103,
         "project_name": "A Renewed Hope",
         "size": 110
-    },
-    {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
-        "code": "EC",
-        "cycle_code": "EC",
-        "date_release": "2021-01-08",
-        "name": "Eternal Conflict",
-        "position": 701,
-        "project_name": "The Coruscant Initiative",
-        "size": 90
-    },
-    {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
-        "code": "PW",
-        "cycle_code": "EC",
-        "date_release": "2021-05-04",
-        "name": "Parting Words",
-        "position": 702,
-        "project_name": "The Coruscant Initiative",
-        "size": 34
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "affiliation_code": "villain",
-        "code": "17001",
+        "code": "18001",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
@@ -32,7 +32,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17002",
+        "code": "18002",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
@@ -63,7 +63,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17003",
+        "code": "18003",
         "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
@@ -93,7 +93,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17004",
+        "code": "18004",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
@@ -124,7 +124,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17005",
+        "code": "18005",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -144,7 +144,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17006",
+        "code": "18006",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -161,7 +161,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17007",
+        "code": "18007",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -178,7 +178,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17008",
+        "code": "18008",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -195,7 +195,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17009",
+        "code": "18009",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -223,7 +223,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17010",
+        "code": "18010",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -240,7 +240,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17011",
+        "code": "18011",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -268,7 +268,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17012",
+        "code": "18012",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -293,7 +293,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17013",
+        "code": "18013",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -310,7 +310,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17014",
+        "code": "18014",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -330,7 +330,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17015",
+        "code": "18015",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -355,7 +355,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17016",
+        "code": "18016",
         "deck_limit": 3,
         "faction_code": "red",
         "has_die": true,
@@ -384,7 +384,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17017",
+        "code": "18017",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
@@ -414,7 +414,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17018",
+        "code": "18018",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
@@ -447,7 +447,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17019",
+        "code": "18019",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
@@ -477,7 +477,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17020",
+        "code": "18020",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
@@ -494,7 +494,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17021",
+        "code": "18021",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "red",
@@ -511,7 +511,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17022",
+        "code": "18022",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -528,7 +528,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17023",
+        "code": "18023",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -545,7 +545,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17024",
+        "code": "18024",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -562,7 +562,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17025",
+        "code": "18025",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": false,
@@ -582,7 +582,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17026",
+        "code": "18026",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "red",
@@ -610,7 +610,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17027",
+        "code": "18027",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -630,7 +630,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17028",
+        "code": "18028",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
@@ -658,7 +658,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17029",
+        "code": "18029",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
@@ -686,7 +686,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17030",
+        "code": "18030",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -716,7 +716,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17031",
+        "code": "18031",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -747,7 +747,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17032",
+        "code": "18032",
         "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
@@ -776,7 +776,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17033",
+        "code": "18033",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -807,7 +807,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17034",
+        "code": "18034",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -828,7 +828,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17035",
+        "code": "18035",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -845,7 +845,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17036",
+        "code": "18036",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -862,7 +862,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17037",
+        "code": "18037",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -879,7 +879,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17038",
+        "code": "18038",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -896,7 +896,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17039",
+        "code": "18039",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": false,
@@ -913,7 +913,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17040",
+        "code": "18040",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -933,7 +933,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17041",
+        "code": "18041",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -961,7 +961,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17042",
+        "code": "18042",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -990,7 +990,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17043",
+        "code": "18043",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1019,7 +1019,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17044",
+        "code": "18044",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -1036,7 +1036,7 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "17045",
+        "code": "18045",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -1064,7 +1064,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17046",
+        "code": "18046",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
@@ -1094,7 +1094,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17047",
+        "code": "18047",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
@@ -1126,7 +1126,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17048",
+        "code": "18048",
         "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
@@ -1155,7 +1155,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17049",
+        "code": "18049",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
@@ -1186,7 +1186,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17050",
+        "code": "18050",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1203,7 +1203,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17051",
+        "code": "18051",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1220,7 +1220,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17052",
+        "code": "18052",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1237,7 +1237,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17053",
+        "code": "18053",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1254,7 +1254,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17054",
+        "code": "18054",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1271,7 +1271,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17055",
+        "code": "18055",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1288,7 +1288,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17056",
+        "code": "18056",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1305,7 +1305,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17057",
+        "code": "18057",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1334,7 +1334,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17058",
+        "code": "18058",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1362,7 +1362,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17059",
+        "code": "18059",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -1390,7 +1390,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17060",
+        "code": "18060",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
@@ -1421,7 +1421,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17061",
+        "code": "18061",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
@@ -1452,7 +1452,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17062",
+        "code": "18062",
         "deck_limit": 3,
         "faction_code": "red",
         "has_die": true,
@@ -1482,7 +1482,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17063",
+        "code": "18063",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
@@ -1514,7 +1514,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17064",
+        "code": "18064",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1531,7 +1531,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17065",
+        "code": "18065",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1548,7 +1548,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17066",
+        "code": "18066",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1565,7 +1565,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17067",
+        "code": "18067",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1593,7 +1593,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17068",
+        "code": "18068",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1621,7 +1621,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17069",
+        "code": "18069",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1649,7 +1649,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17070",
+        "code": "18070",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1669,7 +1669,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17071",
+        "code": "18071",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1690,7 +1690,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17072",
+        "code": "18072",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -1722,7 +1722,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17073",
+        "code": "18073",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -1753,7 +1753,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17074",
+        "code": "18074",
         "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
@@ -1784,7 +1784,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17075",
+        "code": "18075",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -1815,7 +1815,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17076",
+        "code": "18076",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1832,7 +1832,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17077",
+        "code": "18077",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1849,7 +1849,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17078",
+        "code": "18078",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1866,7 +1866,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17079",
+        "code": "18079",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1891,7 +1891,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17080",
+        "code": "18080",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1908,7 +1908,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17081",
+        "code": "18081",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1925,7 +1925,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17082",
+        "code": "18082",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1954,7 +1954,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17083",
+        "code": "18083",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -1983,7 +1983,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17084",
+        "code": "18084",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2012,7 +2012,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17085",
+        "code": "18085",
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
@@ -2029,7 +2029,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17086",
+        "code": "18086",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2058,7 +2058,7 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "17087",
+        "code": "18087",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2086,7 +2086,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17088",
+        "code": "18088",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2103,7 +2103,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17089",
+        "code": "18089",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2120,7 +2120,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17090",
+        "code": "18090",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2140,7 +2140,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17091",
+        "code": "18091",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2160,7 +2160,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17092",
+        "code": "18092",
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": false,
@@ -2177,7 +2177,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17093",
+        "code": "18093",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2206,7 +2206,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17094",
+        "code": "18094",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2234,7 +2234,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17095",
+        "code": "18095",
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
@@ -2260,7 +2260,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17096",
+        "code": "18096",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -2277,7 +2277,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17097",
+        "code": "18097",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": false,
@@ -2294,7 +2294,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17098",
+        "code": "18098",
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": false,
@@ -2314,7 +2314,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17099",
+        "code": "18099",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
@@ -2342,7 +2342,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17100",
+        "code": "18100",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -2362,7 +2362,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17101",
+        "code": "18101",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
@@ -2390,7 +2390,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17102",
+        "code": "18102",
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
@@ -2407,7 +2407,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17103",
+        "code": "18103",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
@@ -2437,7 +2437,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17104",
+        "code": "18104",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2457,7 +2457,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17105",
+        "code": "18105",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2474,7 +2474,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17106",
+        "code": "18106",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2491,7 +2491,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17107",
+        "code": "18107",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2508,7 +2508,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17108",
+        "code": "18108",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2536,7 +2536,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17109",
+        "code": "18109",
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
@@ -2553,7 +2553,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17110",
+        "code": "18110",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2570,7 +2570,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17111",
+        "code": "18111",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2587,7 +2587,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17112",
+        "code": "18112",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2615,7 +2615,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17113",
+        "code": "18113",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2644,7 +2644,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17114",
+        "code": "18114",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "gray",
@@ -2672,7 +2672,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "17115",
+        "code": "18115",
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,

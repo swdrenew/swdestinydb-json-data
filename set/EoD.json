@@ -36,7 +36,7 @@
     {
         "affiliation_code": "villain",
         "code": "17002",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
         "has_die": true,
@@ -99,7 +99,7 @@
     {
         "affiliation_code": "villain",
         "code": "17004",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,
@@ -393,7 +393,7 @@
     {
         "affiliation_code": "hero",
         "code": "17013",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "\"Someone's out to start a war.\" <cite>Mace Windu</cite>",
         "has_die": true,
@@ -425,7 +425,7 @@
     {
         "affiliation_code": "hero",
         "code": "17014",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
         "has_die": true,

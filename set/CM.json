@@ -99,7 +99,7 @@
     {
         "affiliation_code": "villain",
         "code": "12004",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -573,7 +573,7 @@
     {
         "affiliation_code": "villain",
         "code": "12023",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "Skilled as elite commandos and bodyguards.",
         "has_die": true,
@@ -604,7 +604,7 @@
     {
         "affiliation_code": "villain",
         "code": "12024",
-        "deck_limit": 5,
+        "deck_limit": 6,
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
@@ -996,7 +996,7 @@
     {
         "affiliation_code": "villain",
         "code": "12040",
-        "deck_limit": 5,
+        "deck_limit": 6,
         "faction_code": "yellow",
         "flavor": "Their job conditions are so toxic that sentinels must wear sealed, radiation-proof suits.",
         "has_die": false,
@@ -1053,7 +1053,7 @@
     {
         "affiliation_code": "villain",
         "code": "12042",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "Their predatory origins made Trandoshans gifted hunters.",
         "has_die": true,
@@ -1357,7 +1357,7 @@
     {
         "affiliation_code": "hero",
         "code": "12054",
-        "deck_limit": 2,
+        "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -1758,7 +1758,7 @@
     {
         "affiliation_code": "hero",
         "code": "12071",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "Fierce warriors who were not afraid to shed their blood in order to protect their homeland.",
         "has_die": true,
@@ -2172,7 +2172,7 @@
     {
         "affiliation_code": "hero",
         "code": "12088",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "Smuggling is the easy part. The trick is defending your haul.",
         "has_die": true,
@@ -2298,7 +2298,7 @@
     {
         "affiliation_code": "hero",
         "code": "12092",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "yellow",
         "flavor": "\"I know where they're really taking the Wookiees. Have you heard of the spice mines of Kessel?\" <cite>Ezra Bridger</cite>",
         "has_die": false,
@@ -3069,7 +3069,7 @@
     {
         "affiliation_code": "neutral",
         "code": "12129",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "yellow",
         "flavor": "Nar Shaddaa was rife with criminals who coveted prized valuables, such as Luke Skywalker's lightsaber.",
         "has_die": false,
@@ -3454,7 +3454,7 @@
     {
         "affiliation_code": "neutral",
         "code": "12147",
-        "deck_limit": 6,
+        "deck_limit": 7,
         "faction_code": "gray",
         "flavor": "\"Hey, what're you trying to push on us?\" <cite>Owen Lars</cite>",
         "has_die": false,

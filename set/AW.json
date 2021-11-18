@@ -35,7 +35,7 @@
     {
         "affiliation_code": "villain",
         "code": "01002",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
         "has_die": true,
@@ -337,7 +337,7 @@
     {
         "affiliation_code": "villain",
         "code": "01012",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "flavor": "Nightsisters are skilled at twisting the Force to serve their own ends.",
         "has_die": true,
@@ -638,7 +638,7 @@
     {
         "affiliation_code": "villain",
         "code": "01022",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,
@@ -877,7 +877,7 @@
     {
         "affiliation_code": "hero",
         "code": "01030",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": true,
@@ -1053,7 +1053,7 @@
     {
         "affiliation_code": "hero",
         "code": "01036",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": true,
@@ -1380,7 +1380,7 @@
     {
         "affiliation_code": "hero",
         "code": "01047",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
         "has_die": true,

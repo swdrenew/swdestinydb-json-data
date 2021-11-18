@@ -198,7 +198,7 @@
     {
         "affiliation_code": "neutral",
         "code": "10009",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "\"The Outer Rim is a lawless place.\" <cite>Jennica Pierce</cite>",
         "has_die": true,
@@ -299,7 +299,7 @@
     {
         "affiliation_code": "neutral",
         "code": "10013",
-        "deck_limit": 5,
+        "deck_limit": 6,
         "faction_code": "gray",
         "flavor": "A reptilian-like sentient species, Clawdites could shapeshift into humanoid forms.",
         "has_die": true,

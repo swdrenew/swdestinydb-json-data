@@ -66,7 +66,7 @@
     {
         "affiliation_code": "villain",
         "code": "03003",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "The IG-100 MagnaGuard droid could withstand massive damage before total system failure.",
         "has_die": true,
@@ -251,7 +251,7 @@
     {
         "affiliation_code": "villain",
         "code": "03009",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": true,
@@ -557,7 +557,7 @@
     {
         "affiliation_code": "villain",
         "code": "03019",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,
@@ -801,7 +801,7 @@
     {
         "affiliation_code": "hero",
         "code": "03027",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "The first time in the cockpit was always thrilling… even if it was the last.",
         "has_die": true,
@@ -949,7 +949,7 @@
     {
         "affiliation_code": "hero",
         "code": "03032",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "flavor": "That Jedi passed down their wisdom and craft from Master to Padawan.",
         "has_die": true,
@@ -1226,7 +1226,7 @@
     {
         "affiliation_code": "hero",
         "code": "03041",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "\"It's not wise to upset a wookiee.\" <cite>Han Solo</cite>",
         "has_die": true,

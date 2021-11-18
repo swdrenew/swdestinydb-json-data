@@ -2,7 +2,7 @@
     {
         "affiliation_code": "villain",
         "code": "16001",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -340,7 +340,7 @@
     {
         "affiliation_code": "villain",
         "code": "16014",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
@@ -632,7 +632,7 @@
     {
         "affiliation_code": "villain",
         "code": "16026",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
@@ -982,7 +982,7 @@
     {
         "affiliation_code": "hero",
         "code": "16040",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -1271,7 +1271,7 @@
     {
         "affiliation_code": "hero",
         "code": "16052",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,

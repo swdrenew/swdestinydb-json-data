@@ -66,7 +66,7 @@
     {
         "affiliation_code": "villain",
         "code": "09003",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "flavor": "Relayer of the order Operation: Cinder.",
         "has_die": true,
@@ -455,7 +455,7 @@
     {
         "affiliation_code": "villain",
         "code": "09019",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "\"Those clankers have tough armor!\" <cite>Clone Commander Cody</cite>",
         "has_die": true,
@@ -486,7 +486,7 @@
     {
         "affiliation_code": "villain",
         "code": "09020",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "\"A real stormtrooper has no room for sympathy. A real stormtrooper is the extension of the First Order, of Supreme Leader Snoke's will. Nothing less.\" <cite>Captain Phasma</cite>",
         "has_die": true,
@@ -927,7 +927,7 @@
     {
         "affiliation_code": "villain",
         "code": "09037",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "flavor": "\"These bounty hunters drive a more reasonable bargain than pirates.\" <cite>Cassiss</cite>",
         "has_die": true,
@@ -1456,7 +1456,7 @@
     {
         "affiliation_code": "hero",
         "code": "09058",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "flavor": "When we rescue others, we rescue ourselves.",
         "has_die": true,
@@ -1852,7 +1852,7 @@
     {
         "affiliation_code": "hero",
         "code": "09074",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
@@ -3401,7 +3401,7 @@
     {
         "affiliation_code": "neutral",
         "code": "09142",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,

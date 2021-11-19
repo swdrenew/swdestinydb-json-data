@@ -2,7 +2,7 @@
     {
         "affiliation_code": "villain",
         "code": "05001",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": true,
@@ -245,7 +245,7 @@
     {
         "affiliation_code": "villain",
         "code": "05009",
-        "deck_limit": 5,
+        "deck_limit": 6,
         "faction_code": "red",
         "flavor": "\"Roger, Roger.\"",
         "has_die": true,
@@ -373,7 +373,7 @@
     {
         "affiliation_code": "villain",
         "code": "05013",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "The elite soldier of the Imperial Military, trained for complete obedience to the command hierarchy, as well as the Galactic Emperor Palpatine.",
         "has_die": true,
@@ -648,7 +648,7 @@
     {
         "affiliation_code": "villain",
         "code": "05022",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
@@ -882,7 +882,7 @@
     {
         "affiliation_code": "hero",
         "code": "05030",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -1126,7 +1126,7 @@
     {
         "affiliation_code": "hero",
         "code": "05038",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "\"Someone's out to start a war.\" <cite>Mace Windu</cite>",
         "has_die": true,
@@ -1432,7 +1432,7 @@
     {
         "affiliation_code": "hero",
         "code": "05048",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,

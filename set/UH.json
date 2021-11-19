@@ -66,7 +66,7 @@
     {
         "affiliation_code": "villain",
         "code": "18003",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -370,7 +370,7 @@
     {
         "affiliation_code": "villain",
         "code": "18016",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
@@ -778,7 +778,7 @@
     {
         "affiliation_code": "villain",
         "code": "18032",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
@@ -1116,7 +1116,7 @@
         "health": 11,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "Chirrut Imwe",
+        "name": "Chirrut Îmwe",
         "points": "12/15",
         "position": 46,
         "rarity_code": "S",
@@ -1173,7 +1173,7 @@
     {
         "affiliation_code": "hero",
         "code": "18048",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -1474,7 +1474,7 @@
             "guard",
             "partisan"
         ],
-        "text": "Guardian.\n<b>Power Action</b> - Spend 1 resource or spot Chirrut Imwe to resolve one of your dice showing a modifier as if it did not have a modifier.",
+        "text": "Guardian.\n<b>Power Action</b> - Spend 1 resource or spot Chirrut Îmwe to resolve one of your dice showing a modifier as if it did not have a modifier.",
         "ttscardid": "57959",
         "type_code": "character"
     },
@@ -1513,7 +1513,7 @@
     {
         "affiliation_code": "hero",
         "code": "18062",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
@@ -1800,7 +1800,7 @@
         "health": 12,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "Padme Amidala",
+        "name": "Padmé Amidala",
         "parallel_die": "01048",
         "points": "12/15",
         "position": 73,
@@ -1825,7 +1825,7 @@
     {
         "affiliation_code": "hero",
         "code": "18074",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
@@ -2164,7 +2164,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After you play this upgrade, you may reroll a die showing a blank, or turn it to any side instead if this upgrade is on Chirrut Imwe.",
+        "text": "After you play this upgrade, you may reroll a die showing a blank, or turn it to any side instead if this upgrade is on Chirrut Îmwe.",
         "ttscardid": "58016",
         "type_code": "upgrade"
     },

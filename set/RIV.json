@@ -97,7 +97,7 @@
     {
         "affiliation_code": "neutral",
         "code": "06004",
-        "deck_limit": 5,
+        "deck_limit": 6,
         "faction_code": "gray",
         "flavor": "\"I can't abide those Jawas. Disgusting creatures!\" <cite>C-3PO</cite>",
         "has_die": true,

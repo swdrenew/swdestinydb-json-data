@@ -2,7 +2,7 @@
     {
         "affiliation_code": "villain",
         "code": "11001",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -95,7 +95,7 @@
     {
         "affiliation_code": "villain",
         "code": "11004",
-        "deck_limit": 6,
+        "deck_limit": 7,
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
@@ -531,7 +531,7 @@
     {
         "affiliation_code": "villain",
         "code": "11022",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "Their suits were designed to protect them from harsh environments, like the swamps of Mimban.",
         "has_die": true,
@@ -1433,7 +1433,7 @@
     {
         "affiliation_code": "hero",
         "code": "11059",
-        "deck_limit": 7,
+        "deck_limit": 8,
         "faction_code": "blue",
         "flavor": "\"Truly wonderful, the mind of a child is.\" <cite>Yoda</cite>",
         "has_die": false,
@@ -1884,7 +1884,7 @@
     {
         "affiliation_code": "hero",
         "code": "11078",
-        "deck_limit": 6,
+        "deck_limit": 7,
         "faction_code": "red",
         "flavor": "\"Echo Station 3T8, we've spotted Imperial walkers!\" <cite>Trey Callum</cite>",
         "has_die": false,
@@ -2281,7 +2281,7 @@
     {
         "affiliation_code": "hero",
         "code": "11095",
-        "deck_limit": 7,
+        "deck_limit": 8,
         "faction_code": "yellow",
         "flavor": "\"Yub nub.\"",
         "has_die": false,

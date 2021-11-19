@@ -2,7 +2,7 @@
     {
         "affiliation_code": "villain",
         "code": "02001",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "Krennic's personal guard, they defend their commander with extreme prejudice.",
         "has_die": true,
@@ -95,7 +95,7 @@
     {
         "affiliation_code": "villain",
         "code": "02004",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
         "has_die": true,
@@ -337,7 +337,7 @@
     {
         "affiliation_code": "villain",
         "code": "02012",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": true,
@@ -541,7 +541,7 @@
     {
         "affiliation_code": "villain",
         "code": "02019",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,
@@ -809,7 +809,7 @@
     {
         "affiliation_code": "hero",
         "code": "02028",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": true,
@@ -988,7 +988,7 @@
     {
         "affiliation_code": "hero",
         "code": "02034",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": true,
@@ -1352,7 +1352,7 @@
     {
         "affiliation_code": "hero",
         "code": "02046",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,

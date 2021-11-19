@@ -459,7 +459,7 @@
     {
         "affiliation_code": "villain",
         "code": "15015",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "The elite snowtroopers of the Galactic Empire are trained and equipped to operate in frigid environments.",
         "has_die": true,
@@ -752,7 +752,7 @@
     {
         "affiliation_code": "villain",
         "code": "15027",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,
@@ -1028,7 +1028,7 @@
     {
         "affiliation_code": "hero",
         "code": "15038",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "blue",
         "flavor": "\"Mind what you have learned. Save you it can.\" <cite>Yoda</cite>",
         "has_die": true,
@@ -1334,7 +1334,7 @@
     {
         "affiliation_code": "hero",
         "code": "15050",
-        "deck_limit": 4,
+        "deck_limit": 5,
         "faction_code": "red",
         "flavor": "\"Many Bothans died to bring us this information\" <cite>Mon Mothma</cite>",
         "has_die": true,
@@ -1459,7 +1459,7 @@
     {
         "affiliation_code": "hero",
         "code": "15054",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,

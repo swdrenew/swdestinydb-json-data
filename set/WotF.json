@@ -66,7 +66,7 @@
     {
         "affiliation_code": "villain",
         "code": "07003",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -436,7 +436,7 @@
     {
         "affiliation_code": "villain",
         "code": "07019",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
@@ -867,7 +867,7 @@
     {
         "affiliation_code": "villain",
         "code": "07037",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
@@ -1279,7 +1279,7 @@
     {
         "affiliation_code": "hero",
         "code": "07055",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
@@ -1690,7 +1690,7 @@
     {
         "affiliation_code": "hero",
         "code": "07072",
-        "deck_limit": 5,
+        "deck_limit": 6,
         "faction_code": "red",
         "flavor": "Though some regarded them as primitive, the amphibious Gungans were a technologically advanced species from the planet Naboo.",
         "has_die": true,
@@ -2158,7 +2158,7 @@
     {
         "affiliation_code": "hero",
         "code": "07091",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,

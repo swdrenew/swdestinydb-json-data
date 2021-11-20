@@ -350,7 +350,7 @@
     {
         "affiliation_code": "hero",
         "code": "13007A",
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,

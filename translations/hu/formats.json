@@ -12,10 +12,6 @@
         "name": "Standard"
     },
     {
-        "code": "TCISTD",
-        "name": "TCI Standard"
-    },
-    {
         "code": "TRI",
         "name": "Trilogy"
     }

@@ -1453,7 +1453,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you exhaust this support, you may discard a card from your had to draw a card.\n<b>Power Action</b> - Exhaust this support to force an opponent to lose 1 resource, or 2 resources instead if you have fewer characters in play than that opponent.",
+        "text": "After you exhaust this support, you may discard a card from your hand to draw a card.\n<b>Power Action</b> - Exhaust this support to force an opponent to lose 1 resource, or 2 resources instead if you have fewer characters in play than that opponent.",
         "ttscardid": "55057",
         "type_code": "support"
     },

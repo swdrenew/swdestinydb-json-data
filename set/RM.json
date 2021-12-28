@@ -1930,7 +1930,7 @@
         "subtypes": [
             "mission"
         ],
-        "text": "Include only if you have an <i>Ewok</i> on your team.\nEach time you play a <i>trap</i>, place a resource on this plot.\nIf this plot has 3 resources, you may set it aside and spend 3 resources to add 4 set-aside Ewok Warriors ([SoH]95) to your team. Place 3 damage on each one.",
+        "text": "Include only if you have an <i>Ewok</i> on your team.\nEach time you play a <i>trap</i>, place a resource on this plot.\n<b>Action</b> - If this plot has 3 resources, you may set it aside and spend 3 resources to add 4 set-aside Ewok Warriors ([SoH]95) to your team. Place 3 damage on each one.",
         "ttscardid": "55301",
         "type_code": "plot"
     },

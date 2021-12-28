@@ -929,7 +929,7 @@
         "code": "11039",
         "deck_limit": 1,
         "faction_code": "yellow",
-        "flavor": "\"He's good â€” one of the best in the galaxy.\" <cite>Leia Organa</cite>",
+        "flavor": "\"He's good - one of the best in the galaxy.\" <cite>Leia Organa</cite>",
         "has_die": true,
         "has_errata": false,
         "health": 12,

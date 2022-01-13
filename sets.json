@@ -183,5 +183,16 @@
         "position": 105,
         "project_name": "A Renewed Hope",
         "size": 115
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "GS",
+        "cycle_code": "FA",
+        "date_release": "2022-01-31",
+        "name": "Galactic Struggle",
+        "position": 106,
+        "project_name": "A Renewed Hope",
+        "size": 36
     }
 ]

@@ -1180,7 +1180,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Force Reflexes",
-        "position": 48,
+        "position": 46,
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Choose a Blue die in your pool to remove up to 2 dice showing a combined value less than or equal to the chosen die's value plus 1.",

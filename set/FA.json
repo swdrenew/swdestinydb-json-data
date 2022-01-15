@@ -1985,7 +1985,7 @@
         "position": 82,
         "rarity_code": "S",
         "set_code": "FA",
-        "text": "Play a <b>weapon</b> upgrade or <b>vehicle</b> support from an opponent's discard pile, decreasing its cost by 1 for each Yellow character you can spot.",
+        "text": "Play a <b>weapon</b> upgrade or <b>vehicle</b> support from an opponent's discard pile, decreasing its cost by 1 for each Yellow character or <b>scavenger</b> you can spot.",
         "ttscardid": "55111",
         "type_code": "event"
     },

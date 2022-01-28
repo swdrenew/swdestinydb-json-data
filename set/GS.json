@@ -139,7 +139,7 @@
         "sides": [
             "1RD",
             "2RD",
-            "2RD",
+            "+2RD",
             "3RD1",
             "Sp",
             "-"
@@ -168,7 +168,7 @@
         "sides": [
             "1RD",
             "2RD",
-            "2RD",
+            "+2RD",
             "1Dc",
             "1R",
             "-"
@@ -196,7 +196,7 @@
         "set_code": "GS",
         "sides": [
             "1ID",
-            "2ID",
+            "+2ID",
             "1Dr",
             "Sp",
             "Sp",
@@ -430,7 +430,7 @@
             "2ID",
             "1Sh",
             "1R",
-            "2R",
+            "+2R",
             "-"
         ],
         "subtitle": "Joining The Rebellion",
@@ -581,7 +581,7 @@
         "sides": [
             "2RD",
             "2RD1",
-            "2RD",
+            "+2RD",
             "1Sh",
             "Sp",
             "-"

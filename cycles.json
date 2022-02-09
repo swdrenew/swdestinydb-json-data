@@ -22,5 +22,11 @@
         "date_release": null,
         "name": "Faltering Allegiances",
         "position": 4
+    },
+    {
+        "code": "EoDA",
+        "date_release": null,
+        "name": "Echoes of Destiny Archive",
+        "position": 5
     }
 ]

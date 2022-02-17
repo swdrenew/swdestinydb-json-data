@@ -166,13 +166,13 @@
         "cgdb_id_end": null,
         "cgdb_id_start": null,
         "code": "EoD",
-        "cycle_code": "EoDA",
-        "date_release": "2021-11-09",
-        "name": "Echoes of Destiny 1",
-        "position": 901,
+        "cycle_code": "FA",
+        "date_release": "2022-02-08",
+        "name": "Echoes of Destiny",
+        "position": 104,
         "project_name": "A Renewed Hope",
         "size": 100
-    },
+    }
     {
         "cgdb_id_end": null,
         "cgdb_id_start": null,
@@ -199,10 +199,10 @@
         "cgdb_id_end": null,
         "cgdb_id_start": null,
         "code": "EoD",
-        "cycle_code": "FA",
-        "date_release": "2022-02-08",
-        "name": "Echoes of Destiny",
-        "position": 104,
+        "cycle_code": "EoDA",
+        "date_release": "2021-11-09",
+        "name": "Echoes of Destiny 1",
+        "position": 901,
         "project_name": "A Renewed Hope",
         "size": 100
     }

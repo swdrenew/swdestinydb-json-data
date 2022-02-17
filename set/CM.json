@@ -1199,7 +1199,7 @@
         "position": 48,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Choose and opponent's die and remove it unless they give you one resource.",
+        "text": "Choose an opponent's die and remove it unless they give you one resource.",
         "ttscardid": "53607",
         "type_code": "event"
     },

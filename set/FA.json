@@ -97,7 +97,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": true,
+        "has_errata": false,
         "health": 11,
         "illustrator": "ARH",
         "is_unique": true,
@@ -116,7 +116,8 @@
         ],
         "subtitle": "Fallen Master",
         "subtypes": [
-            "nightbrother"
+            "nightbrother",
+            "jedi"
         ],
         "text": "After you activate this character, if there are no dice showing shields in play, you may spend 1 resource to deal 2 damage to a character.\n<b>Power Action</b> - Spot up to two other Blue characters to turn that many of an opponent's dice to any side.",
         "ttscardid": "55003",

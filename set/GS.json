@@ -35,7 +35,7 @@
     {
         "affiliation_code": "villain",
         "code": "19002",
-        "deck_limit": 3,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "Imperial pilots required fearlessness and undying loyalty to achieve the rank of squad leader.",
         "has_die": true,

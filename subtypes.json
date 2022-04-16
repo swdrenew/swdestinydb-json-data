@@ -190,5 +190,9 @@
     {
         "code": "wookiee",
         "name": "Wookiee"
+    },
+    {
+        "code": "musician",
+        "name": "Musician"
     }
 ]

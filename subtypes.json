@@ -194,5 +194,9 @@
     {
         "code": "musician",
         "name": "Musician"
+    },
+    {
+        "code": "capital-ship",
+        "name": "Capital Ship"
     }
 ]

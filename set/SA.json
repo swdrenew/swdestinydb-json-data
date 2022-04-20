@@ -416,7 +416,7 @@
         "position": 64,
         "rarity_code": "S",
         "set_code": "SA",
-        "text": "Spot a spy to reveal an opponents hand. Then you may discard a card from your hand to play an event in that opponent's hand.",
+        "text": "Spot a spy to reveal an opponent's hand. Then you may discard a card from your hand to play an event in that opponent's hand.",
         "type_code": "event"
     },
     {

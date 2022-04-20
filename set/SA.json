@@ -373,6 +373,54 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "21059",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Kallus",
+        "points": "11/13",
+        "position": 61,
+        "rarity_code": "S",
+        "set_code": "SA",
+        "sides": [
+            "2RD",
+            "2MD",
+            "1Dc",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Fulcrum",
+        "subtypes": [
+            "leader",
+            "spy"
+        ],
+        "text": "After you reveal one or more cards in an opponent's hand, deal 1 indirect damage to an opponent.\n<b>Power Action</b> - Reveal your hand to reveal an opponent's hand. You may play an event in that opponent's hand, if able. That opponent may play an event from your hand, if able.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "21062",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Behind Enemy Lines",
+        "position": 64,
+        "rarity_code": "S",
+        "set_code": "SA",
+        "text": "Spot a spy to reveal an opponents hand. Then you may discard a card from your hand to play an event in that opponent's hand.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "21071",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -417,6 +465,34 @@
         "set_code": "SA",
         "text": "Spot a <b>capital ship</b> to remove a die.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "21092",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Special Operative",
+        "position": 94,
+        "rarity_code": "S",
+        "set_code": "SA",
+        "sides": [
+            "1RD",
+            "1MD",
+            "1F",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "title"
+        ],
+        "text": "<b>Power Action</b> - Remove this die to remove an opponent's die showing the same symbol and value.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",

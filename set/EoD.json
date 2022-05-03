@@ -2737,5 +2737,49 @@
         "text": "Place 1 damage on a support in play. Then you may discard that support if it has damage on it equal to or more than its cost.",
         "ttscardid": "48654",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "20114",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Hex",
+        "position": 114,
+        "rarity_code": "C",
+	"reprint_of": "11007",
+        "set_code": "EoD",
+        "subtypes": [
+            "curse"
+        ],
+        "text": "<b>Action</b> - Exhaust this downgrade to remove one of attached character's character die showing a blank ([blank]).",
+        "ttscardid": "52806",
+        "type_code": "downgrade"
+    },
+	{
+        "affiliation_code": "neutral",
+        "code": "20115",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": false,
+        "name": "Dead Or Alive",
+        "position": 115,
+        "rarity_code": "C",
+	"reprint_of": "11138",
+        "set_code": "EoD",
+        "subtypes": [
+            "bounty"
+        ],
+        "text": "Play only if you spot a <i>bounty hunter</i>.\nAfter attached character is activated, you may gain 1 resource.\nAfter attached character is defeated, you may gain 1 resource.",
+        "ttscardid": "52967",
+        "type_code": "downgrade"
     }
 ]

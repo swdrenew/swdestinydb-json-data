@@ -1680,7 +1680,7 @@
         "cost": 5,
         "deck_limit": 2,
         "faction_code": "red",
-        "has_die": true,
+        "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": false,
@@ -1688,14 +1688,6 @@
         "position": 69,
         "rarity_code": "S",
         "set_code": "SA",
-        "sides": [
-            "2F",
-            "2F1",
-            "2Dr",
-            "2Sh",
-            "1R",
-            "1R"
-        ],
         "subtypes": [
             "capital-ship"
         ],

@@ -210,7 +210,8 @@
                 "HS",
                 "EoD",
                 "UH",
-                "GS"
+                "GS",
+                "SA"
             ]
         },
         "name": "Infinite"
@@ -320,7 +321,8 @@
                 "HS",
                 "EoD",
                 "UH",
-                "GS"
+                "GS",
+                "SA"
             ]
         },
         "name": "ARH Standard"

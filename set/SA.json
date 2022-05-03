@@ -14,7 +14,7 @@
         "position": 1,
         "rarity_code": "S",
         "set_code": "SA",
-        "text": "Include only if you have a <b>Sith</b> on your team.\nBefore this character is defeated, deal 2 indirect damage to an opponent.\n<b>Power Action</b> - Move up to 2 damage from a <b>Sith</b> to this character.",
+        "text": "Include only if you have a <b>Sith</b> on your team.\nYou cannot play Blue <b>abilities</b> on this character.\n<b>Power Action</b> - Move up to 2 damage from a <b>Sith</b> to this character.",
         "ttscardid": "58400",
         "type_code": "character"
     },

@@ -1202,8 +1202,7 @@
         ],
         "subtitle": "Patient Jedi Master",
         "subtypes": [
-            "jedi",
-            "leader"
+            "jedi"
         ],
         "text": "<b>Power Action</b>: Play a Blue card from your discard pile. Then, if that card is an event, set that card aside.\n[special] - Move 1 damage from a card to another card, or 2 damage instead if you played a card from your discard pile this round.",
         "ttscardid": "58447",
@@ -2192,7 +2191,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "After you roll this die into your pool, you may turn a die to a side showing the same symbol as this die.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Give a character 1 shield.\n\n",
+        "text": "Blue character only.\nAfter you roll this die into your pool, you may turn a die to a side showing the same symbol as this die.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Give a character 1 shield.\n\n",
         "ttscardid": "58518",
         "type_code": "upgrade"
     },

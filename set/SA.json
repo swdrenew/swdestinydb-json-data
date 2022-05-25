@@ -254,7 +254,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "No Room For Failure",
@@ -262,7 +262,7 @@
         "position": 11,
         "rarity_code": "S",
         "set_code": "SA",
-        "text": "Your character dice cannot be rerolled.\n<b>Action</b> - Resolve one of your character dice, increasing its value by 1.",
+        "text": "Your character dice cannot be rerolled.\n<b>Action</b> - Resolve one of your character dice showing damage, increasing its value by 1.",
         "ttscardid": "58410",
         "type_code": "plot"
     },
@@ -1142,7 +1142,7 @@
         "subtypes": [
             "apprentice"
         ],
-        "text": "<b>Power Action</b> - Choose one:\n- Remove 3 Jedi support dice from your pool and spend 2 resources to flip this character.\n- Roll a Jedi die on one of your cards in play into your pool.",
+        "text": "<b>Power Action</b> - Choose one:\n- Remove 3 <b>Jedi</b> support dice from your pool and spend 2 resources to flip this character.\n- Roll a <b>Jedi</b> die on one of your cards in play into your pool.",
         "ttscardid": "59401",
         "type_code": "character"
     },
@@ -1152,7 +1152,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 18,
         "illustrator": "ARH",
         "is_unique": true,
@@ -1173,7 +1173,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "After you activate this character, roll a set-aside Luke Skywalker (AWK35) die into your pool. If this character is elite, roll a set-aside Leia Organa (RED39) die into your pool.\n<b>Power Action</b> - Resolve one of this character's character dice to heal damage from this character equal to the value showing on that die.",
+        "text": "After you activate this character, roll a set-aside Luke Skywalker (AWK35) die into your pool. If this character is elite, roll a set-aside Leia Organa (RED39) die into your pool.\n<b>Power Action</b> - Remove one of this character's character dice to heal damage from this character equal to the value showing on that die.",
         "ttscardid": "59403",
         "type_code": "character"
     },
@@ -1305,14 +1305,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": true,
         "name": "Greed Can Be A Powerful Ally",
         "position": 54,
         "rarity_code": "S",
         "set_code": "SA",
-        "text": "After an opponent gains 1 or more resources during the action phase, place resources on this support equal to the amount of resources that opponent gained.\n<b>Action</b> - Remove 5 resources from this support and spend 2 resources to ready a Blue character. Set this card aside.",
+        "text": "After an opponent gains 1 or more resources during the action phase, place resources on this support equal to the amount of resources that opponent gained.\n<b>Action</b> - Remove 5 resources from this support and spend 4 resources to ready a Blue character. Set this card aside.",
         "ttscardid": "58453",
         "type_code": "support"
     },
@@ -1323,7 +1323,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Jedi Temple Guards",
@@ -1342,7 +1342,7 @@
             "guard",
             "jedi"
         ],
-        "text": "After you play this support, make it elite.\n<b>Power Action</b> - Reroll a die (yours or an opponent's).",
+        "text": "After you play this support, spot a <b>Jedi</b> or <b>apprentice</b> character to make this support elite.\n<b>Power Action</b> - Reroll a die (yours or an opponent's).",
         "ttscardid": "58454",
         "type_code": "support"
     },
@@ -2446,7 +2446,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Tusken Camp",
@@ -2464,7 +2464,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "Play only if you spot a Yellow character.\nAfter you activate this support, roll 2 set-aside Tusken Raider (AWK22) dice into your pool. Then you may remove one of your character dice to gain 1 resource.",
+        "text": "Play only if you spot a Yellow character.\nAfter you activate this support, roll 2 set-aside Tusken Raider (AWK22) dice into your pool. Then you may remove those dice to gain 1 resource.",
         "ttscardid": "58530",
         "type_code": "support"
     },

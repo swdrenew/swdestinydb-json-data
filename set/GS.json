@@ -438,7 +438,7 @@
             "leader",
             "scoundrel"
         ],
-        "text": "Before you draw your starting hand, you may search your deck for a card titled Millennium Falcon (GS21) and play it, decreasing its cost by 3. Shuffle your deck.",
+        "text": "Before you draw your starting hand, you may search your deck for a card titled Millennium Falcon ([GS]21) and play it, decreasing its cost by 3. Shuffle your deck.",
         "ttscardid": "58118",
         "type_code": "character"
     },

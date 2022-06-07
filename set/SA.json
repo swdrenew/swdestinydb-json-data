@@ -606,7 +606,7 @@
         "subtypes": [
             "capital-ship"
         ],
-        "text": "This card's cost cannot be decreased.\nThis support can be activated.\nAfter you activate this support, roll 3 set aside TIE Fighter (ATG31) dice into your pool. You may gain 1 resource.",
+        "text": "This card's cost cannot be decreased.\nThis support can be activated.\nAfter you activate this support, roll 3 set aside TIE Fighter ([AtG]31) dice into your pool. You may gain 1 resource.",
         "ttscardid": "58424",
         "type_code": "support"
     },
@@ -1173,7 +1173,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "After you activate this character, roll a set-aside Luke Skywalker (AWK35) die into your pool. If this character is elite, roll a set-aside Leia Organa (RED39) die into your pool.\n<b>Power Action</b> - Remove one of this character's character dice to heal damage from this character equal to the value showing on that die.",
+        "text": "After you activate this character, roll a set-aside Luke Skywalker ([AW]35) die into your pool. If this character is elite, roll a set-aside Leia Organa ([RM]39) die into your pool.\n<b>Power Action</b> - Remove one of this character's character dice to heal damage from this character equal to the value showing on that die.",
         "ttscardid": "59403",
         "type_code": "character"
     },
@@ -1579,7 +1579,7 @@
         "subtypes": [
             "pilot"
         ],
-        "text": "After an opponent activates a <b>vehicle</b>, you may activate this character.\nAfter you activate this character, roll a set-aside A-Wing (CON82) die into your pool, or 2 A-Wing dice instead if this character is elite.",
+        "text": "After an opponent activates a <b>vehicle</b>, you may activate this character.\nAfter you activate this character, roll a set-aside A-Wing ([CONV]82) die into your pool, or 2 A-Wing dice instead if this character is elite.",
         "ttscardid": "58462",
         "type_code": "character"
     },
@@ -1690,7 +1690,7 @@
         "subtypes": [
             "capital-ship"
         ],
-        "text": "This card's cost cannot be decreased.\nThis support can be activated.\nAfter you activate this support, roll 2 set aside ARC-170 Starfighter (WoTF129) dice into your pool. You may draw 1 card.",
+        "text": "This card's cost cannot be decreased.\nThis support can be activated.\nAfter you activate this support, roll 2 set aside ARC-170 Starfighter ([WotF]129) dice into your pool. You may draw 1 card.",
         "ttscardid": "58468",
         "type_code": "support"
     },
@@ -2464,7 +2464,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "Play only if you spot a Yellow character.\nAfter you activate this support, roll 2 set-aside Tusken Raider (AWK22) dice into your pool. Then you may remove those dice to gain 1 resource.",
+        "text": "Play only if you spot a Yellow character.\nAfter you activate this support, roll 2 set-aside Tusken Raider ([AW]22) dice into your pool. Then you may remove those dice to gain 1 resource.",
         "ttscardid": "58530",
         "type_code": "support"
     },

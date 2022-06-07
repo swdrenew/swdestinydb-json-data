@@ -833,7 +833,7 @@
             "leader",
             "trooper"
         ],
-        "text": "After setup, play a set-aside copy of Darksaber (HS103) on this character for free.\n<b>Power Action</b> - Remove one of your dice to give this character 1 shield.",
+        "text": "After setup, play a set-aside copy of Darksaber ([HS]103) on this character for free.\n<b>Power Action</b> - Remove one of your dice to give this character 1 shield.",
         "ttscardid": "57932",
         "type_code": "character"
     },
@@ -1818,7 +1818,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "<b>Power Action</b> - Remove 3 resources from this card to play a set-aside Diplomatic Immunity (AWK 50) for free.\n[special] - Discard the top 2 cards of a deck. Place 1 resource on this card.",
+        "text": "<b>Power Action</b> - Remove 3 resources from this card to play a set-aside Diplomatic Immunity ([AW]50) for free.\n[special] - Discard the top 2 cards of a deck. Place 1 resource on this card.",
         "ttscardid": "58002",
         "type_code": "character"
     },

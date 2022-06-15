@@ -1023,7 +1023,7 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "8d8",
+        "name": "8D8",
         "position": 42,
         "rarity_code": "S",
         "set_code": "SA",
@@ -2424,7 +2424,7 @@
     {
         "affiliation_code": "neutral",
         "code": "21098",
-        "cost": 1,
+        "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,

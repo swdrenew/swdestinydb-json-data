@@ -873,7 +873,8 @@
         ],
         "subtitle": "Jedi General",
         "subtypes": [
-            "jedi"
+            "jedi",
+            "twilek"
         ],
         "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side.",
         "ttscardid": "47128",

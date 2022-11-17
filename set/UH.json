@@ -2116,7 +2116,7 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": true,
         "name": "BB-8",
@@ -2135,7 +2135,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "After you play this support, you may spend 1 resource to make it elite.\n[special] - Gain 1 resource and draw a card.",
+        "text": "After you play this support, you may spend 1 resource to make it elite.\n[special] - Draw a card.",
         "ttscardid": "58015",
         "type_code": "support"
     },

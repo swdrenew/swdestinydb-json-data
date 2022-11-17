@@ -198,5 +198,9 @@
     {
         "code": "capital-ship",
         "name": "Capital Ship"
+    },
+    {
+        "code": "twilek",
+        "name": "Twi'lek"
     }
 ]

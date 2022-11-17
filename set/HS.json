@@ -224,6 +224,9 @@
         "position": 10,
         "rarity_code": "S",
         "set_code": "HS",
+        "subtypes": [
+            "location"
+        ],
         "text": "After you play this support, spot a <b>Sith</b> to force each player to shuffle all cards in their hand back into their deck and draw cards up to their hand size.\n<b>Action</b> - Exhaust this support to draw a card. Then, if an opponent has one or more dice showing a blank, gain 1 resource.",
         "ttscardid": "57509",
         "type_code": "support"
@@ -448,6 +451,9 @@
         "position": 19,
         "rarity_code": "S",
         "set_code": "HS",
+        "subtypes": [
+            "intel"
+        ],
         "text": "Discard a random card from an opponent's hand. If that card is an event, you may place a card from a discard pile on top of its owner's deck. Then spot a <b>leader</b> to draw a card.\nSet this card aside.",
         "ttscardid": "57518",
         "type_code": "event"
@@ -2370,6 +2376,9 @@
         "position": 102,
         "rarity_code": "S",
         "set_code": "HS",
+        "subtypes": [
+            "intel"
+        ],
         "text": "Force an opponent to remove one of your dice. Then look at their hand and choose a card. That card is detected (it remains revealed until the end of the action phase).",
         "ttscardid": "57631",
         "type_code": "event"

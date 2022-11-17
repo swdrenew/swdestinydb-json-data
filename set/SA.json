@@ -2399,6 +2399,9 @@
             "-"
         ],
         "subtitle": "Respected Twi'lek",
+        "subtypes": [
+            "twilek"
+        ],
         "text": "Charm. (After you activate this character, you may place 1 charm token on a character).\n<b>Power Action</b> - Remove 1 charm token from a character to turn one of that character's character dice to any side.",
         "ttscardid": "58527",
         "type_code": "character"

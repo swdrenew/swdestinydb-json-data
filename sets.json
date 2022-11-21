@@ -216,5 +216,16 @@
         "position": 901,
         "project_name": "Echoes of Destiny Archive",
         "size": 100
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "DoP",
+        "cycle_code": "FA",
+        "date_release": "2022-11-25",
+        "name": "Display of Power",
+        "position": 108,
+        "project_name": "A Renewed Hope",
+        "size": 116
     }
 ]

@@ -1,3 +1,4 @@
+
 [
     {
         "affiliation_code": "villain",
@@ -28,6 +29,7 @@
             "sith"
         ],
         "text": "After an opponent removes one or more of this character's character dice, discard a random card from that opponent's hand.\n<b>Power Action</b> - Deal 1 damage to an opponent's character if that opponent has 3 or fewer cards in hand, or 2 damage instead if they have no cards in hand.",
+        "ttscardid": "58600",
         "type_code": "character"
     },
     {
@@ -59,6 +61,7 @@
             "inquisitor"
         ],
         "text": "After you activate this character, choose a character die in an opponent's pool. Then force that opponent to turn that die to a blank. If they cannot, turn one of this character's character dice to a side showing a special.\n[special] - Deal 2 damage to a character. You may remove a die showing a blank.",
+        "ttscardid": "58601",
         "type_code": "character"
     },
     {
@@ -90,6 +93,7 @@
             "inquisitor"
         ],
         "text": "After setup, choose an opponent's character.\nAfter the chosen character is activated, you must activate this character as your next action, if able.\nAfter you activate this character, you may resolve one of this character's character dice.",
+        "ttscardid": "58602",
         "type_code": "character"
     },
     {
@@ -117,6 +121,7 @@
         ],
         "subtitle": "The Dark Side",
         "text": "After you play a Blue <b>ability</b> on this character, place one resource on this card.\n<b>Action</b> - If this character has 2 or fewer character dice, remove 3 resources from it. Then it gains 1 die (add a set-aside copy of this die on this card).",
+        "ttscardid": "58603",
         "type_code": "character"
     },
     {
@@ -145,6 +150,7 @@
             "curse"
         ],
         "text": "Play only if you spot a Blue character.\nThe focus sides on this die can only be used to turn opponents' dice.",
+        "ttscardid": "58604",
         "type_code": "downgrade"
     },
     {
@@ -162,6 +168,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Spot a Blue character and exhaust an upgrade you control to roll that upgrade's die into your pool.",
+        "ttscardid": "58605",
         "type_code": "event"
     },
     {
@@ -179,6 +186,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Remove one of your Blue dice showing damage to discard a support from play that costs equal to or less than the value showing on that die.",
+        "ttscardid": "58606",
         "type_code": "event"
     },
     {
@@ -196,6 +204,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Play only if you have dice showing melee damage and discard.\nTurn a die to a side showing a blank and force an opponent to choose and discard a card from their hand.",
+        "ttscardid": "58607",
         "type_code": "event"
     },
     {
@@ -213,6 +222,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Remove one of your Blue dice showing damage to remove up to 2 dice showing a combined value of 3 or less.\n\"Which is why you're gonna lose.\" - Anakin Skywalker",
+        "ttscardid": "58608",
         "type_code": "event"
     },
     {
@@ -230,6 +240,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Spot a Blue character to choose a character die in any player's pool. Remove all copies of that die from all pools.",
+        "ttscardid": "58609",
         "type_code": "event"
     },
     {
@@ -247,6 +258,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "After an opponent takes the discard to reroll action, you may spot an <b>Inquisitor</b> or a <b>Sith</b> and exhaust this plot to deal 1 damage to a character.",
+        "ttscardid": "58610",
         "type_code": "plot"
     },
     {
@@ -275,6 +287,7 @@
             "vehicle"
         ],
         "text": "[special] - Turn a die to a side showing a blank. Turn an <b>Inquisitor</b> or <b>Sith</b> die to any side.",
+        "ttscardid": "58611",
         "type_code": "support"
     },
     {
@@ -303,6 +316,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on an <b>Inquisitor</b>, it has Redeploy.\nAfter you resolve this die showing damage, exhaust this upgrade to roll this die into your pool. Then you may resolve it. Otherwise, remove it.",
+        "ttscardid": "58612",
         "type_code": "upgrade"
     },
     {
@@ -331,6 +345,7 @@
             "ability"
         ],
         "text": "Blue character only.\nAfter an opponent removes this die or one or more of attached character's character dice, you may exhaust this upgrade to deal damage to a character equal to the number of dice that were just removed.",
+        "ttscardid": "58613",
         "type_code": "upgrade"
     },
     {
@@ -362,6 +377,7 @@
             "trooper"
         ],
         "text": "After you play a Red event with a cost of 1 or more, deal 1 unblockable indirect damage to an opponent.\nEvery lie you tell holds a shred of truth.",
+        "ttscardid": "58614",
         "type_code": "character"
     },
     {
@@ -393,6 +409,7 @@
             "leader"
         ],
         "text": "Team Up 1: Each other <b>droid</b>.\nAfter an opponent draws 1 or more cards during the action phase, deal 1 damage to a character.\nI calculate that you have less than a 1 chance of staging a successful rebellion against the Empire.",
+        "ttscardid": "58615",
         "type_code": "character"
     },
     {
@@ -424,6 +441,7 @@
             "leader"
         ],
         "text": "After the start of the upkeep phase, each opponent's hand size is decreased by 1 until the end of the upkeep phase unless that opponent deals 1 damage to a character they control, or 2 damage instead if this character is elite.",
+        "ttscardid": "58616",
         "type_code": "character"
     },
     {
@@ -454,6 +472,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Remove one of your dice showing a resource to either discard the top card of a deck or discard a random card from an opponent's hand. Then, if a non-event card was discarded this way, draw a card.",
+        "ttscardid": "58617",
         "type_code": "character"
     },
     {
@@ -471,6 +490,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Remove an opponent's die showing a value of 1. Then that opponent may draw a card.",
+        "ttscardid": "58618",
         "type_code": "event"
     },
     {
@@ -488,6 +508,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Spot a Red character to choose a symbol. Then deal 1 indirect damage to each opponent for each die showing the chosen symbol, to a maximum of 4.",
+        "ttscardid": "58619",
         "type_code": "event"
     },
     {
@@ -505,6 +526,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Discard a card from your hand to remove a die showing a value equal to that card's cost, or up to 2 dice showing a combined value equal to that card's cost if you spot 2 characters that share no subtypes.",
+        "ttscardid": "58620",
         "type_code": "event"
     },
     {
@@ -522,6 +544,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "<b>Action</b> - Set this plot aside to activate any number of your supports in the order of your choice.\n<b>Action</b> - Spot a <b>leader</b> and exhaust this plot to reroll one of your support dice.",
+        "ttscardid": "58621",
         "type_code": "plot"
     },
     {
@@ -542,6 +565,7 @@
             "capital-ship"
         ],
         "text": "After you resolve a Red <b>leader</b> die, you may exhaust this support to roll a set-aside Planetary Bombardment ([WotF]33) die into your pool.\n<b>Power Action</b> - Roll a set-aside Planetary Bombardment die into your pool or spend 2 resources to discard a support from play.",
+        "ttscardid": "58622",
         "type_code": "support"
     },
     {
@@ -570,6 +594,7 @@
             "location"
         ],
         "text": "After an opponent activates a character, you may activate this support.\n\"It's a standard inspection. Don't worry, I know these fellows.\" - Freck",
+        "ttscardid": "58623",
         "type_code": "support"
     },
     {
@@ -590,6 +615,7 @@
             "droid"
         ],
         "text": "<b>Action</b> - Exhaust this support and resolve one of your dice showing a discard to deal 1 damage to a character. If a non-event card was discarded this way, ready this support.",
+        "ttscardid": "58624",
         "type_code": "support"
     },
     {
@@ -607,6 +633,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "After the upkeep phase begins, choose a character. Deal damage to that character equal to the number of dice that character's controller has in their pool, to a maximum of 2.",
+        "ttscardid": "58625",
         "type_code": "support"
     },
     {
@@ -635,6 +662,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nAfter you activate attached character, you may resolve this die, rerolling it instead of removing it.\n[special] - Deal 2 damage to a character. Then you may deal 1 damage to another character.",
+        "ttscardid": "58626",
         "type_code": "upgrade"
     },
     {
@@ -663,6 +691,7 @@
             "title"
         ],
         "text": "Red character only.\n<b>Power Action</b> - Deal indirect damage to an opponent equal to the number of different damage symbols showing on your dice.",
+        "ttscardid": "58627",
         "type_code": "upgrade"
     },
     {
@@ -693,6 +722,7 @@
             "guard"
         ],
         "text": "Guardian.\nBefore this character is defeated, spot a <b>scoundrel</b> to have that card gain this character's character dice for the rest of the game.",
+        "ttscardid": "58628",
         "type_code": "character"
     },
     {
@@ -725,6 +755,7 @@
             "scoundrel"
         ],
         "text": "<b>Power Action</b> - Remove one of your dice to roll a <b>bounty hunter</b> or <b>scoundrel</b> die on one of your cards in play into your pool.\n\"You will soon learn to appreciate me.\"",
+        "ttscardid": "58629",
         "type_code": "character"
     },
     {
@@ -756,6 +787,7 @@
             "sith"
         ],
         "text": "After setup, this character gains the color Blue.\nAfter you deal damage to one of your characters for the first time each action phase, you may draw a card.\n<b>Power Action</b> - Deal indirect damage to an opponent equal to the difference in the number of cards in your hands, to a maximum of 4.",
+        "ttscardid": "58630",
         "type_code": "character"
     },
     {
@@ -787,6 +819,7 @@
             "scoundrel"
         ],
         "text": "Charm.\nAfter you deal damage to one of your Yellow characters for the first time each action phase, gain 1 resource.\n<b>Power Action</b> - Remove 1 charm token from a character to deal 1 damage to that character.",
+        "ttscardid": "58631",
         "type_code": "character"
     },
     {
@@ -810,6 +843,7 @@
             "trooper"
         ],
         "text": "While you control a <b>Sith</b>, this character has Guardian.\nAfter you activate this character, roll a set-aside Mandalorian Super Commando ([WotF]37) die into your pool. If this character is elite, roll a set-aside Maul ([SoH]3) die into your pool.",
+        "ttscardid": "58632",
         "type_code": "character"
     },
     {
@@ -841,6 +875,7 @@
             "twilek"
         ],
         "text": "After you activate this character, you may remove one of this character's character or upgrade dice showing melee damage to deal 1 unblockable damage to a character.\n\"Crazy Twi.\" - Migs Mayfield",
+        "ttscardid": "58633",
         "type_code": "character"
     },
     {
@@ -861,6 +896,7 @@
             "bounty"
         ],
         "text": "Play only if you spot a Yellow character.\nAfter attached character is defeated, you may resolve one of your dice, increasing its value by 2.",
+        "ttscardid": "58634",
         "type_code": "downgrade"
     },
     {
@@ -878,6 +914,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Spot a Yellow character and choose an opponent's die showing a value of 2 or more. Then deal indirect damage to yourself equal to the value showing on that die to remove it.",
+        "ttscardid": "58635",
         "type_code": "event"
     },
     {
@@ -895,6 +932,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Play only if you have exactly one character die in your pool.\nDeal indirect damage to an opponent equal to the number of dice in their pool.",
+        "ttscardid": "58636",
         "type_code": "event"
     },
     {
@@ -912,6 +950,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Play only if you have more cards in your hand than an opponent (including this card).\nDeal 1 unblockable damage to a character. Look at an opponent's hand and discard a card from it.",
+        "ttscardid": "58637",
         "type_code": "event"
     },
     {
@@ -940,6 +979,7 @@
             "vehicle"
         ],
         "text": "After this support enters play, discard a random card from an opponent's hand and draw a card.\n<b>Power Action</b> - Spot Qi'ra to roll one of her character dice into your pool.",
+        "ttscardid": "58638",
         "type_code": "support"
     },
     {
@@ -968,6 +1008,7 @@
             "guard"
         ],
         "text": "After you activate this support, you may reroll an opponent's die showing damage.\n[special] - Remove an opponent's die.",
+        "ttscardid": "58639",
         "type_code": "support"
     },
     {
@@ -997,6 +1038,7 @@
             "ability"
         ],
         "text": "[special] - Deal 2 damage to a character, or 2 unblockable damage instead if an opponent has a die showing damage in their pool.",
+        "ttscardid": "58640",
         "type_code": "upgrade"
     },
     {
@@ -1026,6 +1068,7 @@
             "equipment"
         ],
         "text": "You may resolve this die showing damage as if it were indirect damage, increasing its value by 1.\n[special] - Discard a card from play if there is a copy of that card in any discard pile. Then discard this upgrade from play.",
+        "ttscardid": "58641",
         "type_code": "upgrade"
     },
     {
@@ -1057,6 +1100,7 @@
             "spectre"
         ],
         "text": "[special] - Reveal the top 3 cards of your deck. You may play a card revealed this way (paying its cost). If that card was Blue, give a character 2 shields. If that card was Red, deal 2 damage to a character. If that card was Yellow, you may turn a die to any side.",
+        "ttscardid": "58642",
         "type_code": "character"
     },
     {
@@ -1087,6 +1131,7 @@
             "jedi"
         ],
         "text": "After you activate this character, if there is a die showing damage in any player's pool, turn an opponent's die to any side.\n[special] - Exhaust an upgrade attached to this character to either deal 2 damage to a character or give a character 2 shields. You may reroll this die instead of removing it",
+        "ttscardid": "58643",
         "type_code": "character"
     },
     {
@@ -1117,6 +1162,7 @@
             "jedi"
         ],
         "text": "Guardian 2.\nYou may resolve the discard sides of this die as if they were melee damage.\n<b>Power Action</b> - Give a character 1 shield and reroll any number of its character and upgrade dice.",
+        "ttscardid": "58644",
         "type_code": "character"
     },
     {
@@ -1144,6 +1190,7 @@
         ],
         "subtitle": "The Light Side",
         "text": "Charm.\nAfter you play a Blue <b>ability</b>, you may heal 1 damage from a character.\n<b>Power Action</b> - Remove 1 charm token from a character to discard the top card of that character's controller's deck. You may heal 1 damage from that character.",
+        "ttscardid": "58645",
         "type_code": "character"
     },
     {
@@ -1174,6 +1221,7 @@
             "jedi"
         ],
         "text": "<b>Power Action</b> - Resolve one of your Blue dice as if it were showing a reroll. You may reroll any number of the rerolled dice 1 additional time.",
+        "ttscardid": "58646",
         "type_code": "character"
     },
     {
@@ -1191,6 +1239,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Renew 1.\nActivate one of your Blue characters. Then you may turn one of that character's character dice to a side showing the same symbol as another character die.",
+        "ttscardid": "58647",
         "type_code": "event"
     },
     {
@@ -1208,6 +1257,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Resolve one of your dice showing a reroll. Then choose one of the dice you just rerolled and remove it.\n\"Remember. The Force will be with you. Always.\" - Obi-Wan Kenobi",
+        "ttscardid": "58648",
         "type_code": "event"
     },
     {
@@ -1225,6 +1275,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Ambush.\nReroll a die. Then give a character shields equal to the value showing on that die.\n\"Now I know there is something stronger than fear - far stronger. The Force.\" - Kanan Jarrus",
+        "ttscardid": "58649",
         "type_code": "event"
     },
     {
@@ -1242,6 +1293,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "After you resolve a die showing a reroll, you may exhaust this support to give a character 1 shield, or 2 shields instead if you rerolled 3 or more dice this turn.",
+        "ttscardid": "58650",
         "type_code": "support"
     },
     {
@@ -1267,6 +1319,7 @@
             "-"
         ],
         "text": "Charm.\nBefore one of your Blue characters is dealt damage, you may activate this support. Then you may resolve this die.",
+        "ttscardid": "58651",
         "type_code": "support"
     },
     {
@@ -1295,6 +1348,7 @@
             "equipment"
         ],
         "text": "Attached character has +1 upgrade limit.\nAfter you play this upgrade, give attached character 1 shield.",
+        "ttscardid": "58652",
         "type_code": "upgrade"
     },
     {
@@ -1324,6 +1378,7 @@
             "ability"
         ],
         "text": "Blue character only.\nAfter you activate attached character, draw a card.\nYou may resolve the shield sides of this die as if they were melee damage.",
+        "ttscardid": "58653",
         "type_code": "upgrade"
     },
     {
@@ -1352,6 +1407,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nAfter you resolve this die, if this upgrade is on Obi-Wan Kenobi, you may exhaust this upgrade to heal 1 damage from a character.",
+        "ttscardid": "58654",
         "type_code": "upgrade"
     },
     {
@@ -1384,6 +1440,7 @@
             "twilek"
         ],
         "text": "After setup, this character gains the color Blue.\n<b>Power Action</b> - Roll a set-aside Clone Trooper (LEG38) die into your pool. You may reroll that die.",
+        "ttscardid": "58655",
         "type_code": "character"
     },
     {
@@ -1414,6 +1471,7 @@
             "leader"
         ],
         "text": "After any player activates a <b>capital ship</b>, you may activate this character.\n<b>Power Action</b> - Choose a <b>capital ship</b> and force its controller to activate it. Give a character 1 shield.\n\"Welcome to the Rebellion.\"",
+        "ttscardid": "58656",
         "type_code": "character"
     },
     {
@@ -1447,6 +1505,7 @@
             "trooper"
         ],
         "text": "Piloting.\nAfter an opponent claims the battlefield, give this character 1 shield.\nAfter the action phase begins, if you control the battlefield, deal 1 indirect damage to an opponent.",
+        "ttscardid": "58657",
         "type_code": "character"
     },
     {
@@ -1479,6 +1538,7 @@
             "spectre"
         ],
         "text": "Piloting.\nAfter you activate this character, you may place 1 damage on a support in play.\n<b>Power Action</b> - Remove one of your <b>vehicle</b> dice to discard a support with damage on it equal to or more than its cost.",
+        "ttscardid": "58658",
         "type_code": "character"
     },
     {
@@ -1509,6 +1569,7 @@
             "spy"
         ],
         "text": "After this character is defeated, deal 1 damage to each of an opponent's characters.\n[special] - Reveal 2 random cards in an opponent's hand and discard each of those cards that is an event.",
+        "ttscardid": "58659",
         "type_code": "character"
     },
     {
@@ -1526,6 +1587,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Choose a symbol and activate one of your Red characters. Then resolve any number of that character's character or upgrade dice showing the chosen symbol. Each opponent gains 1 additional action on their next turn.",
+        "ttscardid": "58660",
         "type_code": "event"
     },
     {
@@ -1543,6 +1605,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Remove one of your Red dice not showing damage. Then remove up to 2 of an opponent's dice showing the same symbol as that die.",
+        "ttscardid": "58661",
         "type_code": "event"
     },
     {
@@ -1559,7 +1622,8 @@
         "position": 63,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Play only if you control the battlefield.\nRemove an opponent’s die. Then heal 2 damage from a character if there is another copy of this event in your discard pile.",
+        "text": "Play only if you control the battlefield.\nRemove an opponent?s die. Then heal 2 damage from a character if there is another copy of this event in your discard pile.",
+        "ttscardid": "58662",
         "type_code": "event"
     },
     {
@@ -1580,6 +1644,7 @@
             "location"
         ],
         "text": "<b>Action</b> - Exhaust this support to reroll a <b>vehicle</b> die. Then give a character shields equal to the value showing on that die.\nIt took the Alliance 18 months to construct Echo Base, but it was abandoned after less than a month.",
+        "ttscardid": "58663",
         "type_code": "support"
     },
     {
@@ -1608,6 +1673,7 @@
             "vehicle"
         ],
         "text": "Ambush.\nAfter you resolve this die, place 1 damage on a support in play.\n<b>Power Action</b> - Remove any amount of damage on this support to deal that much indirect damage to an opponent.",
+        "ttscardid": "58664",
         "type_code": "support"
     },
     {
@@ -1636,6 +1702,7 @@
             "capital-ship"
         ],
         "text": "<b>Action</b> - Set this support aside to deal 3 indirect damage to an opponent.\nBuilt by the Galactic Empire, stolen by the Rebellion, and sacrificed in the Battle of Atollon.",
+        "ttscardid": "58665",
         "type_code": "support"
     },
     {
@@ -1664,6 +1731,7 @@
             "weapon"
         ],
         "text": "After you use the power action on attached character, you may exhaust this upgrade to give attached character 1 shield, or deal 1 indirect damage to an opponent instead if this upgrade is on Aayla Secura.",
+        "ttscardid": "58666",
         "type_code": "upgrade"
     },
     {
@@ -1684,6 +1752,7 @@
             "droid"
         ],
         "text": "After you play this upgrade on Leia Organa, you may give a character 2 shields.\n<b>Action</b> - Exhaust this upgrade to look at the top card of an opponent's deck. You may place that card on the bottom of that deck.",
+        "ttscardid": "58667",
         "type_code": "upgrade"
     },
     {
@@ -1716,6 +1785,7 @@
             "twilek"
         ],
         "text": "After an opponent gains 1 or more resources during the action phase, place 1 resource on this card.\n<b>Power Action</b> - Remove up to 3 resources from this character to deal indirect damage to an opponent equal to the number of resources removed.",
+        "ttscardid": "58668",
         "type_code": "character"
     },
     {
@@ -1747,6 +1817,7 @@
             "spectre"
         ],
         "text": "After setup, this character gains the color Blue.\n<b>Power Action</b> - Resolve one of your dice showing a reroll, rerolling it instead of removing it. Then force an opponent to discard a random card from their hand.",
+        "ttscardid": "58669",
         "type_code": "character"
     },
     {
@@ -1779,6 +1850,7 @@
             "scoundrel"
         ],
         "text": "Charm. Piloting.\n<b>Power Action</b> - Remove 2 charm tokens from a character to reveal that character's controller's hand. Then you may choose a card in that player's hand with a cost of 3 or less and roll its die into your pool and resolve it, if able. Otherwise remove it.",
+        "ttscardid": "58700",
         "type_code": "character"
     },
     {
@@ -1809,6 +1881,7 @@
             "leader"
         ],
         "text": "While you control an <b>apprentice</b> or <b>Jedi</b> character, this character has Guardian.\n<b>Power Action</b> - Heal 1 damage from one of your characters. Deal 1 indirect damage to yourself.",
+        "ttscardid": "58701",
         "type_code": "character"
     },
     {
@@ -1826,6 +1899,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Spot a die showing a resource cost to gain 1 resource. Spot a die showing an indirect damage cost to give a character 1 shield.",
+        "ttscardid": "58702",
         "type_code": "event"
     },
     {
@@ -1843,6 +1917,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Ambush.\nRemove one of your <b>vehicle</b> dice to heal 2 damage from one of your characters.\nSmugglers and other criminals sometimes hide in asteroids to avoid capture.",
+        "ttscardid": "58703",
         "type_code": "event"
     },
     {
@@ -1860,6 +1935,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Give an opponent 1 resource. Then you may turn one of your Yellow <b>leader</b> dice to a side showing damage and resolve it without paying its cost.",
+        "ttscardid": "58704",
         "type_code": "event"
     },
     {
@@ -1877,6 +1953,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Play only if an opponent dealt damage to one of your <b>scoundrel</b> characters during their last turn.\nHeal 2 damage from that character and turn one of that character's character or upgrade dice to any side.",
+        "ttscardid": "58705",
         "type_code": "event"
     },
     {
@@ -1907,6 +1984,7 @@
             "spectre"
         ],
         "text": "<b>Power Action</b> - Spot another <b>Spectre</b> and spend 1 resource to remove a die showing a value equal to or less than the value showing on this die.",
+        "ttscardid": "58706",
         "type_code": "support"
     },
     {
@@ -1937,6 +2015,7 @@
             "twilek"
         ],
         "text": "You may play or move <b>weapon</b> upgrades to or from this support as if it were a non-unique non-elite character with an upgrade limit of 1.",
+        "ttscardid": "58707",
         "type_code": "support"
     },
     {
@@ -1965,6 +2044,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nAfter you resolve this die showing damage, you may turn a character die to any side.",
+        "ttscardid": "58708",
         "type_code": "upgrade"
     },
     {
@@ -1993,6 +2073,7 @@
             "title"
         ],
         "text": "Unique character only.\nThe modifier sides of this die can be resolved with one of attached character's character dice showing any symbol.",
+        "ttscardid": "58709",
         "type_code": "upgrade"
     },
     {
@@ -2013,6 +2094,7 @@
             "ability"
         ],
         "text": "Yellow character only.\nAfter an opponent resolves a die, you may exhaust this upgrade to resolve one of attached character's character or upgrade dice showing the same symbol, increasing its value by 1.",
+        "ttscardid": "58710",
         "type_code": "upgrade"
     },
     {
@@ -2030,6 +2112,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Include only if you have a <b>Jedi</b> on your team.\nAfter setup you may choose a non-<b>Jedi</b> character. That character has Guardian.\n<b>Action</b> - Exhaust this plot to heal 1 damage from an <b>apprentice</b> or <b>Jedi</b>.",
+        "ttscardid": "58711",
         "type_code": "plot"
     },
     {
@@ -2058,6 +2141,7 @@
             "droid"
         ],
         "text": "<b>Action</b> - Set this support aside to give a character 2 shields.\nA stalwart loader <b>droid</b> that sacrificed himself to buy time for the other members of the Path.",
+        "ttscardid": "58712",
         "type_code": "support"
     },
     {
@@ -2075,6 +2159,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Play only if an opponent has more dice in their pool than you.\nRemove an opponent's die. If an opponent has more cards in play than you, give a character 2 shields.",
+        "ttscardid": "58713",
         "type_code": "event"
     },
     {
@@ -2095,6 +2180,7 @@
             "move"
         ],
         "text": "Exhaust an upgrade you control with \"Lightsaber\" in its title to remove a die. Then, if that die was showing damage, deal 1 damage to a character.",
+        "ttscardid": "58714",
         "type_code": "event"
     },
     {
@@ -2112,6 +2198,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Spot a Blue character to turn a die showing damage to a side not showing damage. Then you may spot an exhausted upgrade to take one additional action.",
+        "ttscardid": "58715",
         "type_code": "event"
     },
     {
@@ -2129,6 +2216,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "You can only include The Son and The Daughter on your team. <i>(You may include Villain, Neutral and Hero cards in your deck.)</i>\nAfter you resolve a character die showing damage, you may exhaust this plot to turn a character die to a side not showing damage, or vice versa.",
+        "ttscardid": "58716",
         "type_code": "plot"
     },
     {
@@ -2157,6 +2245,7 @@
             "ability"
         ],
         "text": "Blue character only.\nAfter attached character is dealt damage, you may resolve this die, increasing its value by 1.",
+        "ttscardid": "58717",
         "type_code": "upgrade"
     },
     {
@@ -2185,6 +2274,7 @@
             "ability"
         ],
         "text": "Blue character only.\nAfter you play this upgrade, you may remove a die.\n[special] - Resolve a die as if it were showing a reroll (yours or an opponent's). You may exhaust this upgrade to reroll this die instead of removing it.",
+        "ttscardid": "58718",
         "type_code": "upgrade"
     },
     {
@@ -2213,6 +2303,7 @@
             "weapon"
         ],
         "text": "[special] - Deal 1 damage to a character. You may discard this upgrade to play a card with \"Lightsaber\" in its title from your hand or discard pile, decreasing its cost by 1. Then you may roll its die into your pool, if able.",
+        "ttscardid": "58719",
         "type_code": "upgrade"
     },
     {
@@ -2230,6 +2321,7 @@
         "set_code": "DoP",
         "subtitle": "Lothal",
         "text": "<b>Power Action</b> - Play a card from your hand to reroll a number of dice equal to that card's cost. Give a character 1 shield.",
+        "ttscardid": "58720",
         "type_code": "battlefield"
     },
     {
@@ -2247,6 +2339,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Ambush.\nRemove an opponent's die showing the same symbol as another die in that opponent's pool.",
+        "ttscardid": "58721",
         "type_code": "event"
     },
     {
@@ -2267,6 +2360,7 @@
             "intel"
         ],
         "text": "Spot a <b>leader</b> to reveal an opponent's hand. Turn a character die to a side showing the same value as the cost of a card in that opponent's hand.",
+        "ttscardid": "58722",
         "type_code": "event"
     },
     {
@@ -2284,6 +2378,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "After you resolve a Red die showing a resource, place 1 resource on this plot.\n<b>Action</b> - Play a <b>capital ship</b> from your hand. You may spend up to 2 of the resources on this plot to play it. Set this plot aside.",
+        "ttscardid": "58723",
         "type_code": "plot"
     },
     {
@@ -2304,6 +2399,7 @@
             "intel"
         ],
         "text": "After the upkeep phase begins, you may set this support aside to take control of the battlefield.",
+        "ttscardid": "58724",
         "type_code": "support"
     },
     {
@@ -2332,6 +2428,7 @@
             "vehicle"
         ],
         "text": "After you activate this support, choose a unique character and a subtype. That character gains the chosen subtype until the end of the action phase.\n\"We have stolen a small Imperial shuttle.\" - General Crix Madine",
+        "ttscardid": "58725",
         "type_code": "support"
     },
     {
@@ -2349,6 +2446,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Redeploy.\nAttached character gains <b>leader</b>.\nBefore attached character is defeated, this upgrade gains one of attached character's character dice.",
+        "ttscardid": "58726",
         "type_code": "upgrade"
     },
     {
@@ -2377,6 +2475,7 @@
             "weapon"
         ],
         "text": "Redeploy.\n<b>Action</b> - Exhaust this upgrade and remove this die showing damage to deal 1 unblockable damage to a character.",
+        "ttscardid": "58727",
         "type_code": "upgrade"
     },
     {
@@ -2394,6 +2493,7 @@
         "set_code": "DoP",
         "subtitle": "Jabiim",
         "text": "After you activate a character, you may give control of the battlefield to an opponent to deal 1 indirect damage to that opponent.",
+        "ttscardid": "58728",
         "type_code": "battlefield"
     },
     {
@@ -2425,6 +2525,7 @@
             "scoundrel"
         ],
         "text": "After you activate this character, you may reroll a die not showing a cost.\n<b>Power Action</b> - Force an opponent to pay the cost showing on one of this character's character dice. Then you may resolve that die without paying its cost.",
+        "ttscardid": "58729",
         "type_code": "character"
     },
     {
@@ -2455,6 +2556,7 @@
             "bounty-hunter"
         ],
         "text": "Before this character takes damage, you may resolve one of his character dice as if it were showing a shield.\n<b>Power Action</b> - Resolve this die showing damage against a character with a <b>bounty</b> on it, increasing its value by 1.",
+        "ttscardid": "58730",
         "type_code": "character"
     },
     {
@@ -2476,6 +2578,7 @@
             "intel"
         ],
         "text": "Play only if you spot a <b>bounty hunter</b>.\nAfter attached character's controller plays a neutral card, you may exhaust this downgrade and remove one of your dice to deal 2 damage to attached character.",
+        "ttscardid": "58731",
         "type_code": "downgrade"
     },
     {
@@ -2493,6 +2596,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "You and an opponent each choose and do one of the following, starting with you:\n- Resolve one of your dice, increasing its value by 1.\n- Force an opponent to remove one of their dice. \n- Reroll any number of dice.",
+        "ttscardid": "58732",
         "type_code": "event"
     },
     {
@@ -2521,6 +2625,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Spot Cikatro Vizago or discard a card from your hand to resolve this die, increasing its value by the cost showing on it.",
+        "ttscardid": "58733",
         "type_code": "support"
     },
     {
@@ -2541,6 +2646,7 @@
             "twilek"
         ],
         "text": "Charm.\nThis support can be activated.\nAfter you activate this support, reroll 2 dice.",
+        "ttscardid": "58734",
         "type_code": "support"
     },
     {
@@ -2569,6 +2675,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nWhile this upgrade is on a <b>scoundrel</b>, you may resolve the indirect damage sides of this die as if they were ranged damage.",
+        "ttscardid": "58735",
         "type_code": "upgrade"
     },
     {
@@ -2586,6 +2693,7 @@
         "set_code": "DoP",
         "subtitle": "Daiyu",
         "text": "<b>Power Action</b> - Reveal a card from your hand to turn an opponent's die to a side showing the same value as the cost of the revealed card.",
+        "ttscardid": "58736",
         "type_code": "battlefield"
     },
     {
@@ -2615,7 +2723,8 @@
         "subtypes": [
             "musician"
         ],
-        "text": "Charm. \n<b>Power Action</b> - Remove 1 charm token from a character to resolve one of that character’s character dice as if it were showing a shield without removing it from the pool.",
+        "text": "Charm. \n<b>Power Action</b> - Remove 1 charm token from a character to resolve one of that character?s character dice as if it were showing a shield without removing it from the pool.",
+        "ttscardid": "58737",
         "type_code": "character"
     },
     {
@@ -2633,6 +2742,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Activate a guard you control to reroll an opponent's die. Then remove an opponent's die showing damage.",
+        "ttscardid": "58738",
         "type_code": "event"
     },
     {
@@ -2650,6 +2760,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Ambush.\nChoose a subtype on a card you have in play. Then remove an opponent's die with the chosen subtype.",
+        "ttscardid": "58739",
         "type_code": "event"
     },
     {
@@ -2667,6 +2778,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "Activate one of your characters. Then discard a downgrade on that character to take one additional action.",
+        "ttscardid": "58740",
         "type_code": "event"
     },
     {
@@ -2684,6 +2796,7 @@
         "rarity_code": "S",
         "set_code": "DoP",
         "text": "After you use a power action on a card you control, you may exhaust this plot to reroll a die. Then, if you control the battlefield, give a character 1 shield.",
+        "ttscardid": "58741",
         "type_code": "plot"
     },
     {
@@ -2704,6 +2817,7 @@
             "equipment"
         ],
         "text": "After you activate a Twi'lek or Kanan Jarrus, place 1 shield on this support.\n<b>Action</b> - Exhaust this support to move up to 2 shields from this support to a character.",
+        "ttscardid": "58742",
         "type_code": "support"
     },
     {
@@ -2729,6 +2843,7 @@
             "-"
         ],
         "text": "Charm.\n[special] - Choose and do two of the following:\n- Heal 1 damage from a character.\n- Remove a <b>droid</b> die.\n- Gain 1 resource.",
+        "ttscardid": "58743",
         "type_code": "support"
     },
     {
@@ -2757,6 +2872,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on a unique character, it has Redeploy.\nAfter this die is rerolled by die or card effects, give attached character 1 shield.",
+        "ttscardid": "58744",
         "type_code": "upgrade"
     },
     {
@@ -2774,7 +2890,7 @@
         "set_code": "DoP",
         "subtitle": "Tatooine",
         "text": "Claim - Roll a set-aside Jawa Scavenger (RIV4) die into your pool and resolve it, if able. Otherwise, remove it to take 1 resource from an opponent.",
+        "ttscardid": "58745",
         "type_code": "battlefield"
     }
 ]
-

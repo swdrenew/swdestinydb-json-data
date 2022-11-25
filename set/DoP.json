@@ -1536,7 +1536,8 @@
         "subtypes": [
             "leader",
             "pilot",
-            "spectre"
+            "spectre",
+            "twilek"
         ],
         "text": "Piloting.\nAfter you activate this character, you may place 1 damage on a support in play.\n<b>Power Action</b> - Remove one of your <b>vehicle</b> dice to discard a support with damage on it equal to or more than its cost.",
         "ttscardid": "59558",

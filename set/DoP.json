@@ -20,7 +20,7 @@
             "2MD",
             "3MD",
             "4MD1",
-            "2Dc",
+            "1Dc",
             "1R",
             "-"
         ],
@@ -214,6 +214,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flavor": "\"Which is why you're gonna lose. \" <cite>Anakin Skywalker</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -222,7 +223,7 @@
         "position": 9,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Remove one of your Blue dice showing damage to remove up to 2 dice showing a combined value of 3 or less.\n\"Which is why you're gonna lose.\" - Anakin Skywalker",
+        "text": "Remove one of your Blue dice showing damage to remove up to 2 dice showing a combined value of 3 or less.",
         "ttscardid": "59508",
         "type_code": "event"
     },
@@ -354,6 +355,7 @@
         "code": "22015",
         "deck_limit": 1,
         "faction_code": "red",
+        "flavor": "\"Every lie you tell holds a shred of truth.\"",
         "has_die": true,
         "has_errata": false,
         "health": 13,
@@ -377,7 +379,7 @@
             "leader",
             "trooper"
         ],
-        "text": "After you play a Red event with a cost of 1 or more, deal 1 unblockable indirect damage to an opponent.\nEvery lie you tell holds a shred of truth.",
+        "text": "After you play a Red event with a cost of 1 or more, deal 1 unblockable indirect damage to an opponent.",
         "ttscardid": "59514",
         "type_code": "character"
     },
@@ -386,6 +388,7 @@
         "code": "22016",
         "deck_limit": 1,
         "faction_code": "red",
+        "flavor": "\"I calculate that you have less than a 1 chance of staging a successful rebellion against the Empire.\"",
         "has_die": true,
         "has_errata": false,
         "health": 11,
@@ -575,6 +578,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
+        "flavor": "\"It's a standard inspection. Don't worry, I know these fellows. \" <cite>Freck</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -594,7 +598,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "After an opponent activates a character, you may activate this support.\n\"It's a standard inspection. Don't worry, I know these fellows.\" - Freck",
+        "text": "After an opponent activates a character, you may activate this support.",
         "ttscardid": "59523",
         "type_code": "support"
     },
@@ -731,6 +735,7 @@
         "code": "22030",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "\"You will soon learn to appreciate me.\"",
         "has_die": true,
         "has_errata": false,
         "health": 12,
@@ -755,7 +760,7 @@
             "leader",
             "scoundrel"
         ],
-        "text": "<b>Power Action</b> - Remove one of your dice to roll a <b>bounty hunter</b> or <b>scoundrel</b> die on one of your cards in play into your pool.\n\"You will soon learn to appreciate me.\"",
+        "text": "<b>Power Action</b> - Remove one of your dice to roll a <b>bounty hunter</b> or <b>scoundrel</b> die on one of your cards in play into your pool.",
         "ttscardid": "59529",
         "type_code": "character"
     },
@@ -852,6 +857,7 @@
         "code": "22034",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "\"Crazy Twi. \" <cite>Migs Mayfield</cite>",
         "has_die": true,
         "has_errata": false,
         "health": 9,
@@ -875,7 +881,7 @@
             "scoundrel",
             "twilek"
         ],
-        "text": "After you activate this character, you may remove one of this character's character or upgrade dice showing melee damage to deal 1 unblockable damage to a character.\n\"Crazy Twi.\" - Migs Mayfield",
+        "text": "After you activate this character, you may remove one of this character's character or upgrade dice showing melee damage to deal 1 unblockable damage to a character.",
         "ttscardid": "59533",
         "type_code": "character"
     },
@@ -1249,6 +1255,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flavor": "\"Remember. The Force will be with you. Always. \" <cite>Obi-Wan Kenobi</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1257,7 +1264,7 @@
         "position": 49,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Resolve one of your dice showing a reroll. Then choose one of the dice you just rerolled and remove it.\n\"Remember. The Force will be with you. Always.\" - Obi-Wan Kenobi",
+        "text": "Resolve one of your dice showing a reroll. Then choose one of the dice you just rerolled and remove it.",
         "ttscardid": "59548",
         "type_code": "event"
     },
@@ -1267,6 +1274,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flavor": "\"Now I know there is something stronger than fear - far stronger. The Force. \" <cite>Kanan Jarrus</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1275,7 +1283,7 @@
         "position": 50,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Ambush.\nReroll a die. Then give a character shields equal to the value showing on that die.\n\"Now I know there is something stronger than fear - far stronger. The Force.\" - Kanan Jarrus",
+        "text": "Ambush.\nReroll a die. Then give a character shields equal to the value showing on that die.",
         "ttscardid": "59549",
         "type_code": "event"
     },
@@ -1449,6 +1457,7 @@
         "code": "22057",
         "deck_limit": 1,
         "faction_code": "red",
+        "flavor": "\"Welcome to the Rebellion.\"",
         "has_die": true,
         "has_errata": false,
         "health": 12,
@@ -1471,7 +1480,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "After any player activates a <b>capital ship</b>, you may activate this character.\n<b>Power Action</b> - Choose a <b>capital ship</b> and force its controller to activate it. Give a character 1 shield.\n\"Welcome to the Rebellion.\"",
+        "text": "After any player activates a <b>capital ship</b>, you may activate this character.\n<b>Power Action</b> - Choose a <b>capital ship</b> and force its controller to activate it. Give a character 1 shield.",
         "ttscardid": "59556",
         "type_code": "character"
     },
@@ -1624,7 +1633,7 @@
         "position": 63,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Play only if you control the battlefield.\nRemove an opponent?s die. Then heal 2 damage from a character if there is another copy of this event in your discard pile.",
+        "text": "Play only if you control the battlefield.\nRemove an opponent's die. Then heal 2 damage from a character if there is another copy of this event in your discard pile.",
         "ttscardid": "59562",
         "type_code": "event"
     },
@@ -1684,6 +1693,7 @@
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "red",
+        "flavor": "Built by the Galactic Empire, stolen by the Rebellion, and sacrificed in the Battle of Atollon.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1910,6 +1920,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
+        "flavor": "Smugglers and other criminals sometimes hide in asteroids to avoid capture.",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1918,7 +1929,7 @@
         "position": 74,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Ambush.\nRemove one of your <b>vehicle</b> dice to heal 2 damage from one of your characters.\nSmugglers and other criminals sometimes hide in asteroids to avoid capture.",
+        "text": "Ambush.\nRemove one of your <b>vehicle</b> dice to heal 2 damage from one of your characters.",
         "ttscardid": "59603",
         "type_code": "event"
     },
@@ -2123,6 +2134,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
+        "flavor": "A stalwart loader droid that sacrificed himself to buy time for the other members of the Path.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -2286,7 +2298,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Training Lightsaber",
@@ -2304,7 +2316,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "[special] - Deal 1 damage to a character. You may discard this upgrade to play a card with \"Lightsaber\" in its title from your hand or discard pile, decreasing its cost by 1. Then you may roll its die into your pool, if able.",
+        "text": "[special] - Deal 1 damage to a character. You may set this upgrade aside to play a card with \"Lightsaber\" in its title from your hand or discard pile, decreasing its cost by 1. Then you may roll its die into your pool, if able.",
         "ttscardid": "59619",
         "type_code": "upgrade"
     },
@@ -2410,8 +2422,9 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
+        "flavor": "\"We have stolen a small Imperial shuttle. \" <cite>General Crix Madine</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": true,
         "name": "Tydirium",
@@ -2429,7 +2442,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you activate this support, choose a unique character and a subtype. That character gains the chosen subtype until the end of the action phase.\n\"We have stolen a small Imperial shuttle.\" - General Crix Madine",
+        "text": "After you activate this support, choose a unique character and a character subtype. That character gains the chosen subtype until the end of the action phase.",
         "ttscardid": "59625",
         "type_code": "support"
     },
@@ -2470,7 +2483,7 @@
             "3RD1",
             "+2RD",
             "1F",
-            "1R1",
+            "1Ri1",
             "-"
         ],
         "subtypes": [
@@ -2725,7 +2738,7 @@
         "subtypes": [
             "musician"
         ],
-        "text": "Charm. \n<b>Power Action</b> - Remove 1 charm token from a character to resolve one of that character?s character dice as if it were showing a shield without removing it from the pool.",
+        "text": "Charm. \n<b>Power Action</b> - Remove 1 charm token from a character to resolve one of that character's character dice as if it were showing a shield without removing it from the pool.",
         "ttscardid": "59637",
         "type_code": "character"
     },
@@ -2743,7 +2756,7 @@
         "position": 109,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "Activate a guard you control to reroll an opponent's die. Then remove an opponent's die showing damage.",
+        "text": "Activate a <b>guard</b> you control to reroll an opponent's die. Then remove an opponent's die showing damage.",
         "ttscardid": "59638",
         "type_code": "event"
     },

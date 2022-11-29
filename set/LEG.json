@@ -854,7 +854,7 @@
         "faction_code": "blue",
         "flavor": "\"Sometimes it takes courage to stick to one's beliefs.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Jeff Lee Johnson",
         "is_unique": true,
@@ -874,7 +874,8 @@
         "subtitle": "Jedi General",
         "subtypes": [
             "jedi",
-            "twilek"
+            "twilek",
+            "leader"
         ],
         "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side.",
         "ttscardid": "47128",

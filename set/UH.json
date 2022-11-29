@@ -2200,7 +2200,7 @@
         "position": 89,
         "rarity_code": "S",
         "set_code": "UH",
-        "text": "Renew 2.\nSpot a Jedi or <b>Sith</b> character to play a Blue <b>ability</b> from your discard pile onto another character, decreasing its cost by 1. If this card was played from the discard pile, roll that <b>ability</b>'s die into your pool.",
+        "text": "Renew 2.\nSpot a <b>Jedi</b> or <b>Sith</b> character to play a Blue <b>ability</b> from your discard pile onto another character, decreasing its cost by 1. If this card was played from the discard pile, roll that <b>ability</b>'s die into your pool.",
         "ttscardid": "58018",
         "type_code": "event"
     },

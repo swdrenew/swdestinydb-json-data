@@ -2340,7 +2340,7 @@
         "rarity_code": "S",
         "set_code": "SA",
         "subtitle": "Kef Bir",
-        "text": "Claim - Set aside a support from a discard pile to gain 1 resource.",
+        "text": "<b>Claim</b> - Set aside a support from a discard pile to gain 1 resource.",
         "ttscardid": "58525",
         "type_code": "battlefield"
     },

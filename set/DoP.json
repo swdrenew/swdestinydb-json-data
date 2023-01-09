@@ -150,7 +150,7 @@
         "subtypes": [
             "curse"
         ],
-        "text": "Play only if you spot a Blue character.\nThe focus sides on this die can only be used to turn opponents' dice.",
+        "text": "Play only if you spot a Blue character.\nThe focus sides on this die can only be resolved to turn attached character's controller's dice.",
         "ttscardid": "59504",
         "type_code": "downgrade"
     },

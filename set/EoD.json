@@ -3888,5 +3888,38 @@
         "text": "After you activate this character, you may play a Gray neutral card from your hand, decreasing its cost by 1.",
         "ttscardid": "53826",
         "type_code": "character"
-    }
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "20161",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "Underneath his mask of sophistication resided a brutality that manifested through the Crimson Dawn.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Dryden Vos",
+        "points": "15/20",
+        "position": 162,
+        "rarity_code": "L",
+        "reprint_of": "08035",
+        "set_code": "EoD",
+        "sides": [
+            "2MD",
+            "3MD",
+            "2F",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Ruthless Crime Lord",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "[special] - Shuffle your deck and look at the top card of it. You may play that card for free.",
+        "ttscardid": "49834",
+        "type_code": "character"
+    },
 ]

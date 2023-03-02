@@ -2391,7 +2391,7 @@
         "position": 94,
         "rarity_code": "S",
         "set_code": "DoP",
-        "text": "After you resolve a Red die showing a resource, place 1 resource on this plot.\n<b>Action</b> - Play a <b>capital ship</b> from your hand. You may spend up to 2 of the resources on this plot to play it. Set this plot aside.",
+        "text": "Before you play a <b>capital ship</b>, you may remove up to 2 of the resources from this plot to gain that many resources. Then set this plot aside.\nAfter you resolve a Red die showing a resource, place 1 resource on this plot.",
         "ttscardid": "59623",
         "type_code": "plot"
     },

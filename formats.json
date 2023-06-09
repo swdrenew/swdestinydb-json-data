@@ -215,7 +215,8 @@
                 "UH",
                 "GS",
                 "SA",
-                "DoP"
+                "DoP",
+                "RES"
             ]
         },
         "name": "Infinite"
@@ -344,14 +345,14 @@
                 ]
             },
             "sets": [
-                "FA",
                 "RM",
                 "HS",
                 "EoD",
                 "UH",
                 "GS",
                 "SA",
-                "DoP"
+                "DoP",
+                "RES"
             ]
         },
         "name": "ARH Standard"

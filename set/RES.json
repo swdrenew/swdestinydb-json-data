@@ -774,7 +774,7 @@
         "subtitle": "Cunning Twi'lek",
         "subtypes": [
             "scoundrel",
-            "twi'lek"
+            "twilek"
         ],
         "text": "After you remove this die, you may draw a card.\n[special] - Turn a <b>scoundrel</b> or <b>bounty hunter</b> die to any side. Then, if that is your die, you may resolve it.",
         "ttscardid": "59728",

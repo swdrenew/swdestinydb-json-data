@@ -456,7 +456,7 @@
             "1R",
             "-"
         ],
-        "subtitle": "Isb Major",
+        "subtitle": "ISB Major",
         "subtypes": [
             "leader",
             "spy"
@@ -648,7 +648,7 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "Isb Central Office",
+        "name": "ISB Central Office",
         "position": 25,
         "rarity_code": "S",
         "set_code": "RES",
@@ -1060,7 +1060,7 @@
         "subtypes": [
             "scoundrel"
         ],
-        "text": "This support can be activated.After you activate this support, you may spot 2 of your dice showing the same symbol to gain 1 resource. Then you may deal 1 indirect damage to an opponent, or deal 1 damage to a character instead if you spot Jabba the Hutt.",
+        "text": "This support can be activated.\nAfter you activate this support, you may spot 2 of your dice showing the same symbol to gain 1 resource. Then you may deal 1 indirect damage to an opponent, or deal 1 damage to a character instead if you spot Jabba the Hutt.",
         "ttscardid": "59739",
         "type_code": "support"
     },
@@ -1246,7 +1246,7 @@
         "illustrator": "ARH",
         "is_unique": true,
         "name": "Shaak Ti",
-        "points": "13/10",
+        "points": "10/13",
         "position": 47,
         "rarity_code": "S",
         "set_code": "RES",
@@ -1364,7 +1364,7 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": false,
-        "name": "Dc0052 Speeder",
+        "name": "DC0052 Speeder",
         "position": 52,
         "rarity_code": "S",
         "set_code": "RES",
@@ -2109,7 +2109,7 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "B2emo",
+        "name": "B2EMO",
         "position": 80,
         "rarity_code": "S",
         "set_code": "RES",
@@ -2268,7 +2268,7 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "Daughters Of Ferrix",
+        "name": "Daughters of Ferrix",
         "position": 86,
         "rarity_code": "S",
         "set_code": "RES",
@@ -2642,7 +2642,7 @@
         "health": 8,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "Droopy Mccool",
+        "name": "Droopy McCool",
         "points": "7/9",
         "position": 102,
         "rarity_code": "S",

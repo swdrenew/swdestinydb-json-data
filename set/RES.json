@@ -84,7 +84,7 @@
             "3IDi1",
             "2Dr",
             "1Dc",
-            "1R",
+            "1Ri1",
             "-"
         ],
         "subtitle": "Ruthless Pursuer",
@@ -2204,7 +2204,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "Attached character has +1 health.Before you resolve this die, increase its value by 1 if an opponent has a die showing damage in their pool.",
+        "text": "Attached character has +1 health.\nBefore you resolve this die, increase its value by 1 if an opponent has a die showing damage in their pool.",
         "ttscardid": "59812",
         "type_code": "upgrade"
     },
@@ -2426,7 +2426,7 @@
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
-        "is_unique": false,
+        "is_unique": true,
         "name": "Count Dooku's Lightsaber",
         "parallel_die": "10002",
         "position": 92,
@@ -2939,7 +2939,7 @@
             "mod",
             "weapon"
         ],
-        "text": "Modify <b>vehicle</b> support.\n<b>Action</b> - Remove one of attached <b>vehicle</b>'s<b>vehicle</b> or upgrade dice to deal 1 damage to each of an opponent's characters.",
+        "text": "Modify <b>vehicle</b> support.\n<b>Action</b> - Remove one of attached <b>vehicle</b>'s <b>vehicle</b> or upgrade dice to deal 1 damage to each of an opponent's characters.",
         "ttscardid": "59844",
         "type_code": "upgrade"
     },

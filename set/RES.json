@@ -365,7 +365,7 @@
         "subtypes": [
             "trooper"
         ],
-        "text": "When you resolve this die showing a discard for the first time each round, you may look at an opponent's hand and choose the cards to be discarded instead.",
+        "text": "When you resolve this die showing a discard for the first time each round, you may look at an opponent's hand and choose the cards to be discarded.",
         "ttscardid": "59713",
         "type_code": "character"
     },
@@ -785,6 +785,7 @@
         "code": "23030",
         "deck_limit": 1,
         "faction_code": "yellow",
+	"flavor": "In memory of Chris Knepper, 1987-2023",
         "has_die": true,
         "has_errata": false,
         "health": 13,
@@ -808,7 +809,7 @@
             "leader",
             "scoundrel"
         ],
-        "text": "Before you resolve this die showing damage, if an opponent has a defeated character, you may increase its value by 1.\nAfter you deal damage to one of your characters for the first time each action phase, you may deal 1 damage to an opponent's character.",
+        "text": "Before you resolve this die showing damage, if an opponent has a defeated character, you may increase its value by 1.\nAfter you deal damage to one of your characters for the first time each action phase, you may deal 1 damage to a character.",
         "ttscardid": "59729",
         "type_code": "character"
     },
@@ -1294,7 +1295,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "Guardian.\nThis character has +1 shield limit.\n[special] - Resolve another side of this die, or use a special <b>ability</b> (special-symbol) on an <b>ability</b> on this character.",
+        "text": "Guardian.\n[special] - Resolve another side of this die, or use a special <b>ability</b> (special-symbol) on an <b>ability</b> on this character.",
         "ttscardid": "59747",
         "type_code": "character"
     },
@@ -1429,7 +1430,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "Redeploy.\nAfter you play this upgrade or it is moved to a character, you may roll an <b>ability</b> die on attached character into your pool.",
+        "text": "Redeploy.\nAfter you play this upgrade or it is moved to a character, you may either roll this die into your pool or spend 1 resource to roll an <b>ability</b> die on attached character into your pool.",
         "ttscardid": "59753",
         "type_code": "upgrade"
     },
@@ -1468,7 +1469,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "\"It's over Anakin; I have the high ground.\" <cite>Obi-Wan Kenobi</cite>",
+		"flavor": "\"It's over, Anakin; I have the high ground.\" <cite>Obi-Wan Kenobi</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1606,7 +1607,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "Charm.\nYou may include up to 4 Yellow supports in your deck (following all other deckbuilding restrictions).\n<b>Power Action</b> - Play a <b>trooper</b> support or support that has the word \"partisan\" in its title, decreasing its cost by 1.",
+        "text": "Charm.\nYou may include up to 4 Yellow supports in your deck (following all other deckbuilding restrictions).\n<b>Power Action</b> - Play a <b>trooper</b> support or support with \"partisan\" in its title from your hand, decreasing its cost by 1.",
         "ttscardid": "59759",
         "type_code": "character"
     },
@@ -1730,6 +1731,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
+	"flavor": "A variant of clone trooper trained for aerial combat through the use of the JT-12 jetpack.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1749,7 +1751,7 @@
         "subtypes": [
             "trooper"
         ],
-        "text": "Ambush.\nWhile an opponent has no ready characters, that opponent cannot remove this die.\nA variant of clone trooper trained for aerial combat through the use of the JT-12 jetpack.",
+        "text": "Ambush.\nWhile an opponent has no ready characters, that opponent cannot remove this die.",
         "ttscardid": "59765",
         "type_code": "support"
     },
@@ -2384,7 +2386,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "You may play or move Blue <b>ability</b> upgrades to or from this support as if it were a Blue character with an upgrade limit of 1.\n[special] - You may move a Blue <b>ability</b> upgrade on a character you control to this support. Choose an upgrade attached to this support and roll its die into your pool.",
+        "text": "You may play or move Blue <b>ability</b> upgrades to or from this support as if it were a Blue character with an upgrade limit of 1.\n[special] - Choose an upgrade attached to this support and roll its die into your pool. You may move a Blue <b>ability</b> upgrade on a character you control to this support.",
         "ttscardid": "59819",
         "type_code": "support"
     },
@@ -2659,7 +2661,7 @@
         "subtypes": [
             "musician"
         ],
-        "text": "Charm.\n<b>Power Action</b> - Remove 2 charms token from a character to turn one of that character's character dice to a side showing a blank. If it was your character die, gain 1 resource.",
+        "text": "Charm.\n<b>Power Action</b> - Remove 2 charm tokens from a character to turn one of that character's character dice to a side showing a blank. If it was your character die, gain 1 resource.",
         "ttscardid": "59831",
         "type_code": "character"
     },
@@ -2761,7 +2763,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Ambush.\n<b>Power Action</b> - Attach this card to a character you control as an upgrade (discard all upgrades on this card).",
+        "text": "Ambush.\n<b>Power Action</b> - If this card is a support, attach it to a character you control as an upgrade (discard all upgrades on this card).",
         "ttscardid": "59836",
         "type_code": "support"
     },

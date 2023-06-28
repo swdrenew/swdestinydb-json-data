@@ -2985,7 +2985,7 @@
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Resilience",
         "position": 117,
         "rarity_code": "S",

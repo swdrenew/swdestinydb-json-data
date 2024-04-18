@@ -238,5 +238,16 @@
         "position": 109,
         "project_name": "A Renewed Hope",
         "size": 118
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "AF",
+        "cycle_code": "FA",
+        "date_release": "2024-04-18",
+        "name": "Awaiting Fate",
+        "position": 110,
+        "project_name": "A Renewed Hope",
+        "size": 115
     }
 ]

@@ -1565,7 +1565,8 @@
         ],
         "subtitle": "Intellectual Soldier",
         "subtypes": [
-            "engineer -trooper"
+            "engineer",
+	    "trooper"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Draw a card. Then place a card from your hand on the bottom of your deck.\n[special] - Search your deck or discard pile for a Red <b>weapon</b> or <b>vehicle</b> and play it, decreasing its cost by 1. If you searched your deck, shuffle it.\n\n",
         "ttscardid": "59958",

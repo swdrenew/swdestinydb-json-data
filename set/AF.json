@@ -2503,7 +2503,7 @@
         "set_code": "AF",
         "subtitle": "Negotiator",
         "subtypes": [
-            "twi'lek"
+            "twilek"
         ],
         "text": "Charm.\n<b>Power Action</b> - Remove a charm token from a character to force its controller to choose and discard a card from their hand. Then that player may deal 1 damage to a character.\nA richly attired Twi?lek who handles much of the Mos Espa mayor?s personal affairs.",
         "ttscardid": "60027",

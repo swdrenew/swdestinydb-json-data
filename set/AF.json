@@ -243,7 +243,7 @@
         "position": 10,
         "rarity_code": "S",
         "set_code": "AF",
-        "text": "After the action phase begins, place 1 resource on this card.\n<b>Action</b> - Remove up to 3 resources from this plot to turn that many dice to sides showing a blank. Set this plot aside to gain 1 action.",
+        "text": "After the upkeep phase begins, place 1 resource on this card.\n<b>Action</b> - Set this plot aside and remove up to 3 resources from this plot to turn that many dice to sides showing a blank. Then gain 1 action.",
         "ttscardid": "59909",
 		"type_code": "plot"
     },
@@ -350,9 +350,10 @@
     {
         "affiliation_code": "villain",
         "code": "24015",
-        "cost": 2,
+        "cost": 3,
         "deck_limit": 2,
         "faction_code": "blue",
+	"flavor": "\"My lady, is that any way to treat your rightful ruler?\" <cite>Maul</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -372,7 +373,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "Blue character only.\nBefore a die is turned to a side showing a blank, you may exhaust this upgrade to remove that die instead.\n\"My lady is that any way to treat your rightful ruler?\" - Maul",
+        "text": "Blue character only.\nBefore a die is turned to a side showing a blank, you may exhaust this upgrade to remove that die instead.",
         "ttscardid": "59914",
 		"type_code": "upgrade"
     },
@@ -949,7 +950,7 @@
         "subtypes": [
             "capital-ship"
         ],
-        "text": "After you activate this support, you may activate a pirate, <b>scoundrel</b>, or <b>vehicle</b> you control.\n<b>Power Action</b> - Roll a set-aside Pirate snub fighter (AF38) die in to your pool.",
+        "text": "After you activate this support, you may activate a pirate, <b>scoundrel</b>, or <b>vehicle</b> you control.\n<b>Power Action</b> - Roll a set-aside Pirate Snub Fighter ([AF]38) die in to your pool.",
         "ttscardid": "59936",
 		"type_code": "support"
     },
@@ -1073,7 +1074,7 @@
         "affiliation_code": "villain",
         "code": "24042",
         "deck_limit": 3,
-        "faction_code": "yellow",
+        "faction_code": "gray",
         "has_die": true,
         "has_errata": false,
         "health": 9,
@@ -1279,7 +1280,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "Guardian.\nAfter setup, add a set-aside <b>Jedi</b> Archives ([set ref]) to your play area.\n[special] - Turn a die to any side. If that die is showing a value of: 0: Draw a card; 1: Heal 1 damage from a character; 2 or more: give a character 1 shield.",
+        "text": "Guardian.\nAfter setup, add a set-aside <b>Jedi</b> Archives ([RES]53) to your play area.\n[special] - Turn a die to any side. If that die is showing a value of: 0: Draw a card; 1: Heal 1 damage from a character; 2 or more: give a character 1 shield.",
         "ttscardid": "59947",
 		"type_code": "character"
     },
@@ -1473,7 +1474,7 @@
         "subtypes": [
             "pilot"
         ],
-        "text": "Piloting. \nAfter one of your pilot or <b>vehicle</b> dice is removed, you may place 1 damage on a support or give a character 1 shield.\n[special] - Move 2 damage from a support to a character or vice versa.",
+        "text": "Piloting. \nAfter one of your <b>pilot</b> dice is removed, you may place 1 damage on a support or give a character 1 shield.\n[special] - Move 2 damage from a support to a character or vice versa.",
         "ttscardid": "59955",
 		"type_code": "character"
     },
@@ -1536,7 +1537,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "Resilience.\nAfter setup, add a set-aside Rebel Trooper (AWK30) to your team, or two Rebel Troopers instead if this character is elite.\n<b>Power Action</b> - Resolve one of your support dice for free without removing it from your pool.",
+        "text": "Resilience.\nAfter setup, add a set-aside Rebel Trooper ([AWK]30) to your team, or two Rebel Troopers instead if this character is elite.\n<b>Power Action</b> - Resolve one of your support dice for free without removing it from your pool.",
         "ttscardid": "59957",
 		"type_code": "character"
     },
@@ -2123,7 +2124,7 @@
         "subtypes": [
             "mission"
         ],
-        "text": "After you resolve a <b>vehicle</b> die, place 1 resource on this plot.\n<b>Action</b> - Remove 12 resources from this plot and set this plot aside. Then spot a hero character to add a set-aside Ezra Bridger (DOP70) to your team. He gains the color Blue. If this plot is elite, make him elite.",
+        "text": "After you resolve a <b>vehicle</b> die, place 1 resource on this plot.\n<b>Action</b> - Remove 12 resources from this plot and set this plot aside. Then spot a hero character to add a set-aside Ezra Bridger ([DoP]70) to your team. He gains the color Blue. If this plot is elite, make him elite.",
         "ttscardid": "60010",
 		"type_code": "plot"
     },
@@ -2167,7 +2168,7 @@
 		"type_code": "event"
     },
     {
-        "affiliation_code": "hero",
+        "affiliation_code": "neutral",
         "code": "24084",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -2201,7 +2202,7 @@
         "set_code": "AF",
         "sides": [
             "2MD",
-            "2MDi1",
+            "2MD1",
             "1Sh",
             "1R",
             "Sp",
@@ -2211,14 +2212,14 @@
             "jedi",
             "sith"
         ],
-        "text": "Discard this support from play if you control Anakin Skywalker or Darth Vader.\n[special] - Roll a set-aside Darth Vader (ATG1) die into your pool.",
+        "text": "Discard this support from play if you control Anakin Skywalker or Darth Vader.\n[special] - Roll a set-aside Darth Vader ([AtG]1) die into your pool.",
         "ttscardid": "60014",
 		"type_code": "support"
     },
     {
         "affiliation_code": "neutral",
         "code": "24086",
-        "cost": 2,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
@@ -2254,7 +2255,7 @@
             "3MD1",
             "+2MD",
             "1Sh",
-            "2Sh1",
+            "2Shi1",
             "Sp",
             "-"
         ],
@@ -2331,7 +2332,7 @@
             "guard",
             "trooper"
         ],
-        "text": "Guardian.\nAfter this character is defeated, give a character 2 shields.\nAfter you activate this character, if this character is elite, roll a set-aside Stun Baton (Leg74) die into your pool.",
+        "text": "Guardian.\nAfter this character is defeated, give a character 2 shields.\nAfter you activate this character, if this character is elite, roll a set-aside Stun Baton ([LEG]74) die into your pool.",
         "ttscardid": "60019",
 		"type_code": "character"
     },
@@ -2341,6 +2342,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "red",
+	"flavor": "\"But. I. Just. Got. Promoted...\" <cite>Battle Droid</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -2349,7 +2351,7 @@
         "position": 91,
         "rarity_code": "S",
         "set_code": "AF",
-        "text": "Deal 1 indirect damage to yourself to resolve one of your Red dice, increasing its value by 1.\n\"Roger, roger.\"",
+        "text": "Deal 1 indirect damage to yourself to resolve one of your Red dice, increasing its value by 1.",
         "ttscardid": "60020",
 		"type_code": "event"
     },
@@ -2604,7 +2606,7 @@
             "-"
         ],
         "subtypes": [
-            "weapon"
+            "equipment"
         ],
         "text": "Redeploy.\n[special] - Deal indirect damage to an opponent equal to the value showing on a die.",
         "ttscardid": "60032",
@@ -2634,6 +2636,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
+	"flavor": "\"I've got a tribe to feed.\" <cite>Teeka</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -2642,7 +2645,7 @@
         "position": 105,
         "rarity_code": "S",
         "set_code": "AF",
-        "text": "Discard one of your cards from play to play a card from your hand, decreasing its cost by the cost of the discarded card.",
+        "text": "Discard a support you control from play to play a support from your hand, decreasing its cost by the cost of the discarded card.",
         "ttscardid": "60034",
 		"type_code": "event"
     },

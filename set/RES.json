@@ -840,7 +840,7 @@
         "subtypes": [
             "bounty-hunter"
         ],
-        "text": "Resilience.\nAfter an opponent activates a character, you may reroll a die.\n<b>Power Action</b> - Play a <b>bounty</b> from your hand or discard pile on an opponent's character. Then deal 1 damage to that character or give this character 1 shield.",
+        "text": "Resilience.\nAfter an opponent activates a character, you may reroll a character die.\n<b>Power Action</b> - Play a <b>bounty</b> from your hand or discard pile on an opponent's character. Then deal 1 damage to that character or give this character 1 shield.",
         "ttscardid": "59730",
         "type_code": "character"
     },

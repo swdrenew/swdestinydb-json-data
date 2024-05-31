@@ -885,7 +885,7 @@
         "position": 34,
         "rarity_code": "S",
         "set_code": "AF",
-        "text": "Resolve up to 2 of your dice as if they were showing indirect damage, increasing each of their values by 1 if one or more of those dice were showing damage.",
+        "text": "Resolve up to 2 of your dice as if they were showing indirect damage.",
         "ttscardid": "59933",
 		"type_code": "event"
     },
@@ -2462,7 +2462,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "ARH",
         "is_unique": true,
@@ -2484,7 +2484,7 @@
             "scavenger",
             "witch"
         ],
-        "text": "After setup, this character gains the color Blue.\nAfter you play a card with an odd cost, you may place 1 shield on a non-plot card in play.\n<b>Power Action</b> - Remove 1 shield from a non-plot card you control to turn a hero or villain die to a side showing a value of 0.",
+        "text": "After setup, this character gains the color Blue.\nAfter you play a card with an odd cost for the first time each round, you may place 1 shield on a non-plot card in play.\n<b>Power Action</b> - Remove 1 shield from a non-plot card you control to turn a hero or villain die to a side showing a value of 0.",
         "ttscardid": "60026",
 		"type_code": "character"
     },
